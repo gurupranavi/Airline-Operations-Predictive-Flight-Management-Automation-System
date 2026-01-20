@@ -1,0 +1,105 @@
+================================================================================
+AVIATION OPERATIONS DAILY REPORT
+Date: 2026-01-20
+Airline: Global Airlines (GA)
+================================================================================
+
+
+1. EXECUTIVE SUMMARY
+----------------------------------------
+Total Flights Monitored: 20
+Flights with Predicted Delays: 20
+Critical Aircraft Alerts: 2
+Warning Alerts: 17
+
+
+2. FLIGHT OPERATIONS
+----------------------------------------
+DEPARTED: 5
+SCHEDULED: 6
+IN_FLIGHT: 3
+BOARDING: 6
+
+Currently Delayed Flights: 20
+  GA100: 107 min delay
+  GA101: 90 min delay
+  GA102: 86 min delay
+  GA103: 90 min delay
+  GA104: 76 min delay
+
+
+3. DELAY PREDICTIONS
+----------------------------------------
+
+HIGH Severity Delays (20 flights):
+  GA100: 135 min - DEL-SIN
+    Reasons: High crosswind at DEL, Thunderstorm at DEL
+  GA101: 174 min - DEL-HYD
+    Reasons: High crosswind at DEL, Thunderstorm at DEL
+  GA102: 257 min - DEL-JFK
+    Reasons: High crosswind at DEL, Thunderstorm at DEL
+
+
+4. CREW SCHEDULING
+----------------------------------------
+Compliant Assignments: 0/20
+
+Non-Compliant Flights (20):
+  GA100: Insufficient pilots, Insufficient cabin crew
+  GA101: Insufficient cabin crew
+  GA102: Insufficient cabin crew
+  GA103: Insufficient cabin crew
+  GA104: Insufficient pilots, Insufficient cabin crew
+
+
+5. PASSENGER LOAD PREDICTIONS
+----------------------------------------
+Overall Load Factor: 58.7%
+Total Predicted Passengers: 3249
+Total Available Capacity: 5532
+
+Overbooking Risk (9 flights):
+  GA101: 182/180 seats
+  GA102: 185/180 seats
+  GA103: 184/178 seats
+
+
+6. AIRCRAFT HEALTH MONITORING
+----------------------------------------
+Critical Alerts: 2
+Warning Alerts: 17
+
+Critical Alerts:
+  GA-007: OIL_TEMPERATURE
+    High oil temperature: 116.0C
+  GA-007: ENGINE_THRUST
+    Engine thrust deviation: 72.8%
+
+Aircraft with Alerts: 9
+
+
+7. ROUTE ANALYSIS & DIVERSION SUGGESTIONS
+----------------------------------------
+Flights with Route Issues: 20
+
+High Severity Issues (20):
+  GA100 (DEL-SIN)
+    Issues: Thunderstorm at DEL, High crosswind at DEL
+    Suggestion: Consider delay or alternate route
+  GA101 (DEL-HYD)
+    Issues: Thunderstorm at DEL, High crosswind at DEL
+    Suggestion: Consider delay or alternate route
+  GA102 (DEL-JFK)
+    Issues: Thunderstorm at DEL, High crosswind at DEL
+    Suggestion: Consider delay or alternate route
+
+
+8. RECOMMENDATIONS & ACTIONS REQUIRED
+----------------------------------------
+1. Immediate maintenance required for aircraft with critical alerts
+2. Review and possibly reschedule 20 high-risk flights
+3. Manage overbooking for 9 flights
+
+================================================================================
+END OF REPORT
+================================================================================
