@@ -8,30 +8,30 @@ A comprehensive airline operations management system that processes multiple dat
 Project Structure
 -----------------------------------------------------------------------------------------------
 airline-operations-system/
-├── data/                           # Sample data files
-│   ├── sample_crew_schedule.json   # Crew scheduling data
-│   ├── sample_engine_logs.json     # Aircraft engine performance logs
-│   ├── sample_flight_schedule.json # Flight schedule data
-│   ├── sample_passenger_logs.json  # Passenger information
-│   └── sample_weather_logs.json    # Weather condition data
-├── logs/                           # System logs and alerts
-│   ├── aircraft_health_alerts.log  # Aircraft maintenance alerts
-│   └── critical_flight_alerts.log  # Flight operation alerts
-├── modules/                        # Core system modules
+├── data/
+│   ├── sample_crew_schedule.json   
+│   ├── sample_engine_logs.json     
+│   ├── sample_flight_schedule.json 
+│   ├── sample_passenger_logs.json  
+│   └── sample_weather_logs.json    
+├── logs/                           
+│   ├── aircraft_health_alerts.log  
+│   └── critical_flight_alerts.log  
+├── modules/                        
 │   ├── __init__.py
-│   ├── crew_optimizer.py           # Crew scheduling optimization
-│   ├── dashboard.py                # Web dashboard interface
-│   ├── delay_predictor.py          # Flight delay prediction
-│   ├── health_monitor.py           # Aircraft health monitoring
-│   ├── load_predictor.py           # Passenger load prediction
-│   ├── log_processor.py            # Log file processing
-│   └── reporter.py                 # Report generation
-├── output/                         # Generated outputs
-│   └── airline_config.json         # System configuration
-├── main.py                         # Main application entry point
-├── init_system.py                  # System initialization
-├── setup.py                        # Package setup configuration
-├── requirements.txt                # Python dependencies
+│   ├── crew_optimizer.py           
+│   ├── dashboard.py              
+│   ├── delay_predictor.py          
+│   ├── health_monitor.py           
+│   ├── load_predictor.py          
+│   ├── log_processor.py            
+│   └── reporter.py                 
+├── output/                         
+│   └── airline_config.json         
+├── main.py                         
+├── init_system.py                  
+├── setup.py                        
+├── requirements.txt                
 
 
 Features
@@ -45,10 +45,9 @@ Features
 
 Install Dependencies
 ---------------------------------------------------------------------------------------------------------------------
-`sql
   tabulate
   reportlab==4.0.4
   faker==20.1.0
   pytz==2023.3
-  `
+  
   
