@@ -1,0 +1,4 @@
+tabulate
+reportlab==4.0.4
+faker==20.1.0
+pytz==2023.3

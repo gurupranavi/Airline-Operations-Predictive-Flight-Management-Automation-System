@@ -1,0 +1,39 @@
+{
+    "airline": {
+        "name": "Global Airlines",
+        "code": "GA",
+        "hub_airport": "DEL"
+    },
+    "thresholds": {
+        "crosswind_max_knots": 40,
+        "visibility_min_meters": 1500,
+        "engine_thrust_deviation_percent": 20,
+        "runway_queue_max_minutes": 25,
+        "boarding_max_minutes": 45,
+        "turbulence_threshold": 5,
+        "engine_vibration_threshold": 7.0,
+        "altitude_fluctuation_threshold": 3000,
+        "fuel_burn_threshold_percent": 15,
+        "cabin_temp_max_celsius": 28
+    },
+    "crew_rules": {
+        "max_duty_hours": 14,
+        "min_rest_hours": 10,
+        "max_consecutive_flights": 4,
+        "required_crew_per_flight": {
+            "small": {"pilots": 2, "crew": 4},
+            "medium": {"pilots": 2, "crew": 6},
+            "large": {"pilots": 3, "crew": 8}
+        }
+    },
+    "aircraft_types": {
+        "A320": {"type": "medium", "capacity": 180, "range_km": 6100},
+        "B737": {"type": "medium", "capacity": 178, "range_km": 6285},
+        "A380": {"type": "large", "capacity": 555, "range_km": 15700},
+        "ATR72": {"type": "small", "capacity": 78, "range_km": 1530}
+    },
+    "routes": {
+        "domestic": ["DEL-MAA", "DEL-BOM", "DEL-BLR", "DEL-HYD", "DEL-CCU"],
+        "international": ["DEL-LHR", "DEL-JFK", "DEL-DXB", "DEL-SIN", "DEL-SYD"]
+    }
+}
