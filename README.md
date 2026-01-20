@@ -56,32 +56,37 @@ INSTALL DEPENDENCIES
 DATA FILE DESCRIPITION
 -----------------------------------------------------------------------------------------------------------------------
 1. sample_crew_schedule.json
+
 Contains crew member details, qualifications, schedules, and duty times.
 
 2. sample_engine_logs.json
+   
 Aircraft engine performance metrics, maintenance records, and sensor data.
 
 3. sample_flight_schedule.json
+
 Flight schedules, routes, aircraft assignments, and historical performance.
 
 4. sample_passenger_logs.json
+
 Passenger booking data, preferences, and historical travel patterns.
 
 5. sample_weather_logs.json
+
 Historical and forecasted weather data for flight routes and airports.
 
 AIRLINE OPERATIONS DASHBOARD MENU
 ------------------------------------------------------------
 1. Process Daily Operations (Full Run)
 2. Generate Daily Report Only
-3. View Flight Delay Predictions
-4. View Crew Schedule
-5. View Aircraft Health Alerts
-6. View Passenger Load Predictions
-7. Generate Custom Report
-8. View System Configuration
-9. Initialize/Reset Sample Data
-10. Exit
+4. View Flight Delay Predictions
+5. View Crew Schedule
+6. View Aircraft Health Alerts
+7. View Passenger Load Predictions
+8. Generate Custom Report
+9. View System Configuration
+10. Initialize/Reset Sample Data
+11. Exit
 
 Sample Output
 ------------------------------------------------------------------------------------------------------
