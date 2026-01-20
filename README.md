@@ -9,15 +9,18 @@ Project Structure
 -----------------------------------------------------------------------------------------------
 airline-operations-system/
 ├── data/
+|
 │   ├── sample_crew_schedule.json   
 │   ├── sample_engine_logs.json     
 │   ├── sample_flight_schedule.json 
 │   ├── sample_passenger_logs.json  
 │   └── sample_weather_logs.json    
-├── logs/                           
+├── logs/ 
+|
 │   ├── aircraft_health_alerts.log  
 │   └── critical_flight_alerts.log  
-├── modules/                        
+├── modules/ 
+|
 │   ├── __init__.py
 │   ├── crew_optimizer.py           
 │   ├── dashboard.py              
@@ -26,7 +29,8 @@ airline-operations-system/
 │   ├── load_predictor.py          
 │   ├── log_processor.py            
 │   └── reporter.py                 
-├── output/                         
+├── output/   
+|
 │   └── airline_config.json         
 ├── main.py                         
 ├── init_system.py                  
