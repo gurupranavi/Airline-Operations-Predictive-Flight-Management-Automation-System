@@ -57,23 +57,23 @@ DATA FILE DESCRIPITION
 -----------------------------------------------------------------------------------------------------------------------
 1. sample_crew_schedule.json
 
-Contains crew member details, qualifications, schedules, and duty times.
+    Contains crew member details, qualifications, schedules, and duty times.
 
 2. sample_engine_logs.json
    
-Aircraft engine performance metrics, maintenance records, and sensor data.
+     Aircraft engine performance metrics, maintenance records, and sensor data.
 
 3. sample_flight_schedule.json
 
-Flight schedules, routes, aircraft assignments, and historical performance.
+    Flight schedules, routes, aircraft assignments, and historical performance.
 
 4. sample_passenger_logs.json
 
-Passenger booking data, preferences, and historical travel patterns.
+   Passenger booking data, preferences, and historical travel patterns.
 
 5. sample_weather_logs.json
 
-Historical and forecasted weather data for flight routes and airports.
+   Historical and forecasted weather data for flight routes and airports.
 
 AIRLINE OPERATIONS DASHBOARD MENU
 ------------------------------------------------------------
@@ -90,14 +90,14 @@ AIRLINE OPERATIONS DASHBOARD MENU
 
 Sample Output
 ------------------------------------------------------------------------------------------------------
- Weather Reports: 50
+  Weather Reports: 50
  
   Crew Members: 20
   
   Passenger Records: 70
   
- Report saved: output/reports/aviation_report_2026-01-20.txt
+  Report saved: output/reports/aviation_report_2026-01-20.txt
 
- Daily report generated: output/reports/aviation_report_2026-01-20.txt
+  Daily report generated: output/reports/aviation_report_2026-01-20.txt
   
   
