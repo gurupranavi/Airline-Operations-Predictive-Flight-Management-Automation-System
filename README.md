@@ -1,11 +1,11 @@
-# Airline-Operations-Predictive-Flight-Management-Automation-System
+# AIRLINE OPERATIONS & PREDICTIVE FLIGHT MANAGEMENT SYSTEM
 ----------------------------------------------------------------------------------------------
 
-Project Overview
+PROJECT OVERVIEW
 ----------------------------------------------------------------------------------------------
 A comprehensive airline operations management system that processes multiple data streams to optimize crew scheduling, predict delays, monitor aircraft health, and generate actionable insights for airline operations.
 
-Project Structure
+PROJECT STRUCTURE
 -----------------------------------------------------------------------------------------------
 airline-operations-system/
 ├── data/
@@ -34,7 +34,7 @@ airline-operations-system/
 ├── requirements.txt                
 
 
-Features
+FEATURES
 -------------------------------------------------------------------------------------------------------------------
 * Crew Optimization
 * Delay Prediction
@@ -43,7 +43,7 @@ Features
 * Dashboard & Reporting
 * Alert System
 
-Install Dependencies
+INSTALL DEPENDENCIES
 ---------------------------------------------------------------------------------------------------------------------
   tabulate
   
@@ -53,7 +53,7 @@ Install Dependencies
   
   pytz==2023.3
 
-Data Files Description
+DATA FILE DESCRIPITION
 -----------------------------------------------------------------------------------------------------------------------
 1. sample_crew_schedule.json
 Contains crew member details, qualifications, schedules, and duty times.
@@ -69,6 +69,19 @@ Passenger booking data, preferences, and historical travel patterns.
 
 5. sample_weather_logs.json
 Historical and forecasted weather data for flight routes and airports.
+
+AIRLINE OPERATIONS DASHBOARD MENU
+------------------------------------------------------------
+1. Process Daily Operations (Full Run)
+2. Generate Daily Report Only
+3. View Flight Delay Predictions
+4. View Crew Schedule
+5. View Aircraft Health Alerts
+6. View Passenger Load Predictions
+7. Generate Custom Report
+8. View System Configuration
+9. Initialize/Reset Sample Data
+10. Exit
 
 Sample Output
 ------------------------------------------------------------------------------------------------------
