@@ -1,0 +1,1802 @@
+[
+  {
+    "flight_id": "GA795",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T00:44:54.860875",
+    "metrics": {
+      "engine_thrust_percent": 84.29139823108659,
+      "engine_vibration": 7.386914530353719,
+      "fuel_burn_rate": 2302.379358882249,
+      "oil_temperature": 110.58116315721222,
+      "oil_pressure": 39.95489843639965,
+      "cabin_pressure_psi": 10.50856010428314,
+      "cabin_temperature_c": 26.872768285805634,
+      "airspeed_knots": 497.6634392258941,
+      "altitude_ft": 31749.215864461396,
+      "turbulence_level": 4.499491989388786
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-16T23:44:54.860914",
+    "metrics": {
+      "engine_thrust_percent": 76.63629452161032,
+      "engine_vibration": 2.408658652252587,
+      "fuel_burn_rate": 2904.242346821552,
+      "oil_temperature": 111.29511106436894,
+      "oil_pressure": 35.02936780428857,
+      "cabin_pressure_psi": 10.816414999594823,
+      "cabin_temperature_c": 21.12415854730098,
+      "airspeed_knots": 547.7698556155389,
+      "altitude_ft": 35927.97282719619,
+      "turbulence_level": 6.162844598458438
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA966",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T07:44:54.860924",
+    "metrics": {
+      "engine_thrust_percent": 86.32908915340761,
+      "engine_vibration": 8.506240674742589,
+      "fuel_burn_rate": 2828.095101292748,
+      "oil_temperature": 95.4731203682112,
+      "oil_pressure": 44.85191008632112,
+      "cabin_pressure_psi": 10.811956915906446,
+      "cabin_temperature_c": 24.28019025588155,
+      "airspeed_knots": 402.54287660348774,
+      "altitude_ft": 37935.716740126256,
+      "turbulence_level": 1.680518841973761
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-19T03:44:54.860930",
+    "metrics": {
+      "engine_thrust_percent": 82.47237401601636,
+      "engine_vibration": 4.901631385266658,
+      "fuel_burn_rate": 2951.533927725745,
+      "oil_temperature": 85.19498655652464,
+      "oil_pressure": 49.401872429637535,
+      "cabin_pressure_psi": 10.60553792779005,
+      "cabin_temperature_c": 29.180072030980124,
+      "airspeed_knots": 404.6427092240824,
+      "altitude_ft": 34948.15861901453,
+      "turbulence_level": 1.594896606216674
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA943",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-19T14:44:54.860935",
+    "metrics": {
+      "engine_thrust_percent": 91.1213834320217,
+      "engine_vibration": 7.259972617210016,
+      "fuel_burn_rate": 3298.7867955607426,
+      "oil_temperature": 110.21172930845378,
+      "oil_pressure": 48.13631835602156,
+      "cabin_pressure_psi": 10.888779199414294,
+      "cabin_temperature_c": 24.34860427705998,
+      "airspeed_knots": 454.7640954197558,
+      "altitude_ft": 32520.871378790034,
+      "turbulence_level": 3.2993892350299454
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA889",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-17T20:44:54.860941",
+    "metrics": {
+      "engine_thrust_percent": 82.55453292771045,
+      "engine_vibration": 3.2313653904140365,
+      "fuel_burn_rate": 2178.83798853164,
+      "oil_temperature": 94.48590060075917,
+      "oil_pressure": 35.43401713321934,
+      "cabin_pressure_psi": 11.056255936607052,
+      "cabin_temperature_c": 21.009143742369,
+      "airspeed_knots": 430.50580946428613,
+      "altitude_ft": 39831.999466316316,
+      "turbulence_level": 1.3391467696112092
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T00:44:54.860946",
+    "metrics": {
+      "engine_thrust_percent": 74.8126627482363,
+      "engine_vibration": 1.1940762391167823,
+      "fuel_burn_rate": 3112.154652338176,
+      "oil_temperature": 117.55975822318638,
+      "oil_pressure": 44.076026287634605,
+      "cabin_pressure_psi": 11.234295027009319,
+      "cabin_temperature_c": 26.020751865863375,
+      "airspeed_knots": 485.592538979141,
+      "altitude_ft": 33725.517615631754,
+      "turbulence_level": 5.503219819294045
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-18T14:44:54.860951",
+    "metrics": {
+      "engine_thrust_percent": 84.40803189332954,
+      "engine_vibration": 6.730528643864243,
+      "fuel_burn_rate": 2357.325127276776,
+      "oil_temperature": 117.44815862478072,
+      "oil_pressure": 43.0657732550561,
+      "cabin_pressure_psi": 11.308086254839697,
+      "cabin_temperature_c": 21.051072457592117,
+      "airspeed_knots": 400.94083590896076,
+      "altitude_ft": 31567.358747213155,
+      "turbulence_level": 6.249686095040301
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-19T19:44:54.860961",
+    "metrics": {
+      "engine_thrust_percent": 87.24704721445362,
+      "engine_vibration": 7.223327154997925,
+      "fuel_burn_rate": 2257.6805921413543,
+      "oil_temperature": 108.167842307251,
+      "oil_pressure": 40.292159120452794,
+      "cabin_pressure_psi": 10.864228580871835,
+      "cabin_temperature_c": 29.587076113185923,
+      "airspeed_knots": 517.2312418567315,
+      "altitude_ft": 33394.76856153421,
+      "turbulence_level": 1.0656368099655769
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T23:44:54.860966",
+    "metrics": {
+      "engine_thrust_percent": 96.32610916364935,
+      "engine_vibration": 4.981529672892429,
+      "fuel_burn_rate": 2409.6090953647717,
+      "oil_temperature": 95.76006732127738,
+      "oil_pressure": 40.086173634386796,
+      "cabin_pressure_psi": 10.895666062482759,
+      "cabin_temperature_c": 29.654244997285662,
+      "airspeed_knots": 506.68194145976435,
+      "altitude_ft": 32944.931844433355,
+      "turbulence_level": 6.83310756398247
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA795",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-18T10:44:54.860973",
+    "metrics": {
+      "engine_thrust_percent": 72.79555835804506,
+      "engine_vibration": 2.9342746982094754,
+      "fuel_burn_rate": 3338.867588401956,
+      "oil_temperature": 115.97826654587479,
+      "oil_pressure": 46.088623881611106,
+      "cabin_pressure_psi": 11.041588326684996,
+      "cabin_temperature_c": 20.64937240210133,
+      "airspeed_knots": 452.8461162444107,
+      "altitude_ft": 36020.50886927337,
+      "turbulence_level": 2.894429314612394
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA829",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-18T20:44:54.860980",
+    "metrics": {
+      "engine_thrust_percent": 93.19194630121312,
+      "engine_vibration": 4.553072277107597,
+      "fuel_burn_rate": 3328.7918494714454,
+      "oil_temperature": 114.94891848449961,
+      "oil_pressure": 45.17961152631789,
+      "cabin_pressure_psi": 10.780341474469083,
+      "cabin_temperature_c": 22.3003498143372,
+      "airspeed_knots": 468.3219731303566,
+      "altitude_ft": 35596.1290889248,
+      "turbulence_level": 8.937094320381664
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA889",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-19T11:44:54.860985",
+    "metrics": {
+      "engine_thrust_percent": 92.36113686150284,
+      "engine_vibration": 4.74453131891765,
+      "fuel_burn_rate": 3401.4967559427505,
+      "oil_temperature": 101.27413597564899,
+      "oil_pressure": 47.40017369037309,
+      "cabin_pressure_psi": 10.837049781972125,
+      "cabin_temperature_c": 26.232081398128038,
+      "airspeed_knots": 421.8807252306959,
+      "altitude_ft": 38039.462722418764,
+      "turbulence_level": 1.0661469799617342
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA943",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-18T05:44:54.860989",
+    "metrics": {
+      "engine_thrust_percent": 102.96298997234686,
+      "engine_vibration": 2.6998148492740235,
+      "fuel_burn_rate": 2511.2945556321542,
+      "oil_temperature": 90.88372910419723,
+      "oil_pressure": 35.75261766812423,
+      "cabin_pressure_psi": 10.756021909350622,
+      "cabin_temperature_c": 21.113008166847425,
+      "airspeed_knots": 543.5329820690088,
+      "altitude_ft": 31137.86134429019,
+      "turbulence_level": 7.774543714176359
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-19T01:44:54.860994",
+    "metrics": {
+      "engine_thrust_percent": 102.7175373391423,
+      "engine_vibration": 1.7091271614863635,
+      "fuel_burn_rate": 2168.5244882946613,
+      "oil_temperature": 90.13810619934064,
+      "oil_pressure": 35.38596002586203,
+      "cabin_pressure_psi": 10.79321579195139,
+      "cabin_temperature_c": 28.17596108340593,
+      "airspeed_knots": 425.22210109210977,
+      "altitude_ft": 36489.23184684757,
+      "turbulence_level": 9.28280156365397
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA966",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-18T07:44:54.860999",
+    "metrics": {
+      "engine_thrust_percent": 75.82490146282863,
+      "engine_vibration": 3.826222263917092,
+      "fuel_burn_rate": 2476.8658129374185,
+      "oil_temperature": 88.81719276681956,
+      "oil_pressure": 48.96290685884378,
+      "cabin_pressure_psi": 11.360449171163634,
+      "cabin_temperature_c": 25.193065434566453,
+      "airspeed_knots": 418.3873767876816,
+      "altitude_ft": 31182.299517465708,
+      "turbulence_level": 7.9278304572395975
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T13:44:54.861005",
+    "metrics": {
+      "engine_thrust_percent": 101.38944766932215,
+      "engine_vibration": 4.856942971414101,
+      "fuel_burn_rate": 2019.699563435619,
+      "oil_temperature": 84.5371750549386,
+      "oil_pressure": 45.870570424693746,
+      "cabin_pressure_psi": 11.010876147783815,
+      "cabin_temperature_c": 26.522417034196927,
+      "airspeed_knots": 452.6850267607358,
+      "altitude_ft": 36213.64895842945,
+      "turbulence_level": 4.17289571051011
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T16:44:54.861010",
+    "metrics": {
+      "engine_thrust_percent": 104.3388257267562,
+      "engine_vibration": 5.0526804782272485,
+      "fuel_burn_rate": 2181.5439064343736,
+      "oil_temperature": 108.44783181285348,
+      "oil_pressure": 44.55571101857298,
+      "cabin_pressure_psi": 11.079471815682993,
+      "cabin_temperature_c": 24.905497521331014,
+      "airspeed_knots": 498.59623085829355,
+      "altitude_ft": 38971.976297991336,
+      "turbulence_level": 1.364535570116642
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA789",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-19T01:44:54.861015",
+    "metrics": {
+      "engine_thrust_percent": 100.83055935479153,
+      "engine_vibration": 1.4060479384417208,
+      "fuel_burn_rate": 2328.652236550161,
+      "oil_temperature": 82.22888644342818,
+      "oil_pressure": 43.74797706140226,
+      "cabin_pressure_psi": 10.77704690316051,
+      "cabin_temperature_c": 20.60626736771642,
+      "airspeed_knots": 435.00052330680734,
+      "altitude_ft": 37918.71629758471,
+      "turbulence_level": 6.56738669610067
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA887",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T12:44:54.861019",
+    "metrics": {
+      "engine_thrust_percent": 70.11568872833962,
+      "engine_vibration": 1.997847754264086,
+      "fuel_burn_rate": 3212.996292014631,
+      "oil_temperature": 94.59345130735497,
+      "oil_pressure": 40.681858594197664,
+      "cabin_pressure_psi": 10.503727174008624,
+      "cabin_temperature_c": 21.34496235370962,
+      "airspeed_knots": 479.5860247859303,
+      "altitude_ft": 37181.15027713163,
+      "turbulence_level": 1.566287956538282
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T03:44:54.861024",
+    "metrics": {
+      "engine_thrust_percent": 96.47075908970871,
+      "engine_vibration": 1.230350623778092,
+      "fuel_burn_rate": 3158.169635400467,
+      "oil_temperature": 94.56428551484862,
+      "oil_pressure": 38.237832142974014,
+      "cabin_pressure_psi": 11.4751722083056,
+      "cabin_temperature_c": 25.18068320522524,
+      "airspeed_knots": 548.9404253442663,
+      "altitude_ft": 39730.30099135055,
+      "turbulence_level": 7.057475070476608
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T07:44:54.861031",
+    "metrics": {
+      "engine_thrust_percent": 91.96440009872671,
+      "engine_vibration": 3.123201044325479,
+      "fuel_burn_rate": 2106.8508239658017,
+      "oil_temperature": 90.78044168288824,
+      "oil_pressure": 35.35947666490226,
+      "cabin_pressure_psi": 11.370034630535685,
+      "cabin_temperature_c": 28.87548999126428,
+      "airspeed_knots": 461.5085423953498,
+      "altitude_ft": 35727.109719649394,
+      "turbulence_level": 8.134571418541412
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-17T01:44:54.861035",
+    "metrics": {
+      "engine_thrust_percent": 85.79552720234112,
+      "engine_vibration": 5.186989196363428,
+      "fuel_burn_rate": 2029.8467591549047,
+      "oil_temperature": 100.14377652580315,
+      "oil_pressure": 36.91342200060148,
+      "cabin_pressure_psi": 10.91388353617419,
+      "cabin_temperature_c": 25.034254509718092,
+      "airspeed_knots": 401.6969683130709,
+      "altitude_ft": 37940.86949336181,
+      "turbulence_level": 9.932631835406335
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-18T15:44:54.861041",
+    "metrics": {
+      "engine_thrust_percent": 82.3966913428431,
+      "engine_vibration": 5.8472788294915325,
+      "fuel_burn_rate": 2329.806373719757,
+      "oil_temperature": 95.85855402857716,
+      "oil_pressure": 41.76059706967683,
+      "cabin_pressure_psi": 10.968541427108239,
+      "cabin_temperature_c": 20.262242377211297,
+      "airspeed_knots": 545.1039949792348,
+      "altitude_ft": 30359.216438750682,
+      "turbulence_level": 5.162496061954364
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-18T03:44:54.861046",
+    "metrics": {
+      "engine_thrust_percent": 73.56933486789137,
+      "engine_vibration": 3.4496672507670363,
+      "fuel_burn_rate": 3300.2753564114596,
+      "oil_temperature": 106.6965905712516,
+      "oil_pressure": 36.502419309686175,
+      "cabin_pressure_psi": 10.533456797311858,
+      "cabin_temperature_c": 25.53901295314685,
+      "airspeed_knots": 541.0315904899635,
+      "altitude_ft": 35652.969191097814,
+      "turbulence_level": 9.489585425002
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA829",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T11:44:54.861051",
+    "metrics": {
+      "engine_thrust_percent": 80.26073327221602,
+      "engine_vibration": 3.7725199007233385,
+      "fuel_burn_rate": 2892.093773573487,
+      "oil_temperature": 110.49506386178383,
+      "oil_pressure": 40.38601032461271,
+      "cabin_pressure_psi": 10.533048753972796,
+      "cabin_temperature_c": 23.972606945974736,
+      "airspeed_knots": 402.21560111894877,
+      "altitude_ft": 30928.904165582742,
+      "turbulence_level": 5.492064691572097
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-17T19:44:54.861058",
+    "metrics": {
+      "engine_thrust_percent": 76.03344048489993,
+      "engine_vibration": 1.6051288472043943,
+      "fuel_burn_rate": 2645.2453199570527,
+      "oil_temperature": 87.67829526908038,
+      "oil_pressure": 37.10478042812864,
+      "cabin_pressure_psi": 11.065955180766144,
+      "cabin_temperature_c": 29.815750997648955,
+      "airspeed_knots": 521.6360549345803,
+      "altitude_ft": 31852.464765222037,
+      "turbulence_level": 5.297846684543985
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-18T10:44:54.861062",
+    "metrics": {
+      "engine_thrust_percent": 93.73612124381259,
+      "engine_vibration": 3.6345065747204837,
+      "fuel_burn_rate": 2299.941541620674,
+      "oil_temperature": 88.4103023161347,
+      "oil_pressure": 45.06974601248207,
+      "cabin_pressure_psi": 10.627966860664099,
+      "cabin_temperature_c": 28.646689061273193,
+      "airspeed_knots": 472.3780660916046,
+      "altitude_ft": 32500.894198973132,
+      "turbulence_level": 5.613872093698243
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T15:44:54.861067",
+    "metrics": {
+      "engine_thrust_percent": 74.53425473203013,
+      "engine_vibration": 7.1365696043727915,
+      "fuel_burn_rate": 2719.8202300475023,
+      "oil_temperature": 110.9393717920237,
+      "oil_pressure": 45.214217211872985,
+      "cabin_pressure_psi": 11.276762911305864,
+      "cabin_temperature_c": 29.7593322847138,
+      "airspeed_knots": 425.94465032143046,
+      "altitude_ft": 37161.69439007526,
+      "turbulence_level": 4.603938090690972
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-18T03:44:54.861072",
+    "metrics": {
+      "engine_thrust_percent": 104.82402491834662,
+      "engine_vibration": 1.6858351868809578,
+      "fuel_burn_rate": 2656.4539310975415,
+      "oil_temperature": 84.72787250075952,
+      "oil_pressure": 45.65418829988018,
+      "cabin_pressure_psi": 10.797624874072035,
+      "cabin_temperature_c": 28.741864974883335,
+      "airspeed_knots": 424.92375295778174,
+      "altitude_ft": 35099.682406467946,
+      "turbulence_level": 8.622515380408842
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA966",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-19T20:44:54.861077",
+    "metrics": {
+      "engine_thrust_percent": 81.18466262589821,
+      "engine_vibration": 4.932740265995269,
+      "fuel_burn_rate": 3270.958465290987,
+      "oil_temperature": 92.33633048372992,
+      "oil_pressure": 46.56453736705952,
+      "cabin_pressure_psi": 11.324600405352733,
+      "cabin_temperature_c": 27.146468211348367,
+      "airspeed_knots": 486.2595516354244,
+      "altitude_ft": 33722.70573742444,
+      "turbulence_level": 4.6591830733340425
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-19T03:44:54.861083",
+    "metrics": {
+      "engine_thrust_percent": 75.09976734300841,
+      "engine_vibration": 4.555548347743964,
+      "fuel_burn_rate": 2763.5009554787334,
+      "oil_temperature": 97.14684084826443,
+      "oil_pressure": 42.00687800713846,
+      "cabin_pressure_psi": 11.289662622350015,
+      "cabin_temperature_c": 29.03773184023656,
+      "airspeed_knots": 491.81940089450217,
+      "altitude_ft": 37131.48126195885,
+      "turbulence_level": 9.885626121751933
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA453",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-17T14:44:54.861088",
+    "metrics": {
+      "engine_thrust_percent": 91.30412002844872,
+      "engine_vibration": 3.388753612383283,
+      "fuel_burn_rate": 2034.0759609518243,
+      "oil_temperature": 102.73055341378924,
+      "oil_pressure": 44.82398241231157,
+      "cabin_pressure_psi": 10.757332688818067,
+      "cabin_temperature_c": 22.04670552403607,
+      "airspeed_knots": 544.0535945352334,
+      "altitude_ft": 33012.691098528056,
+      "turbulence_level": 8.090535176507956
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-19T08:44:54.861093",
+    "metrics": {
+      "engine_thrust_percent": 82.31093805862751,
+      "engine_vibration": 6.5183065174822445,
+      "fuel_burn_rate": 2167.2861063653845,
+      "oil_temperature": 88.74703845801555,
+      "oil_pressure": 41.99553161577162,
+      "cabin_pressure_psi": 11.119589687887101,
+      "cabin_temperature_c": 20.541386518521787,
+      "airspeed_knots": 509.06555576971266,
+      "altitude_ft": 30149.22523048366,
+      "turbulence_level": 6.227952730434163
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-18T18:44:54.861099",
+    "metrics": {
+      "engine_thrust_percent": 100.89136825746611,
+      "engine_vibration": 4.597004915760399,
+      "fuel_burn_rate": 3365.5666379639442,
+      "oil_temperature": 103.43231357405924,
+      "oil_pressure": 36.885479479129735,
+      "cabin_pressure_psi": 10.535643163209322,
+      "cabin_temperature_c": 28.960811424392816,
+      "airspeed_knots": 421.30320144003224,
+      "altitude_ft": 36896.60647592793,
+      "turbulence_level": 5.180476329520999
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T09:44:54.861104",
+    "metrics": {
+      "engine_thrust_percent": 83.55435534154802,
+      "engine_vibration": 7.670463614266922,
+      "fuel_burn_rate": 2561.8532298744003,
+      "oil_temperature": 82.16147707708116,
+      "oil_pressure": 47.85022518484717,
+      "cabin_pressure_psi": 10.718403586624056,
+      "cabin_temperature_c": 27.46425123657953,
+      "airspeed_knots": 499.51785856478455,
+      "altitude_ft": 30717.707239495725,
+      "turbulence_level": 3.426188330711099
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T18:44:54.861109",
+    "metrics": {
+      "engine_thrust_percent": 102.40170566444965,
+      "engine_vibration": 3.937530950649168,
+      "fuel_burn_rate": 3064.643874249031,
+      "oil_temperature": 88.54251404797932,
+      "oil_pressure": 38.48235069982849,
+      "cabin_pressure_psi": 10.727040280650229,
+      "cabin_temperature_c": 22.776296817341766,
+      "airspeed_knots": 547.8440093650458,
+      "altitude_ft": 31811.9370441759,
+      "turbulence_level": 4.030176939145403
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T21:44:54.861114",
+    "metrics": {
+      "engine_thrust_percent": 86.73329026647633,
+      "engine_vibration": 1.3033283737157397,
+      "fuel_burn_rate": 2968.6350061624835,
+      "oil_temperature": 102.69618979340379,
+      "oil_pressure": 49.58413841054153,
+      "cabin_pressure_psi": 11.409897328066764,
+      "cabin_temperature_c": 27.369423899693256,
+      "airspeed_knots": 431.31414506625896,
+      "altitude_ft": 32239.800664847495,
+      "turbulence_level": 3.6431836469880983
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-18T12:44:54.861119",
+    "metrics": {
+      "engine_thrust_percent": 100.85121050551527,
+      "engine_vibration": 1.3367625056151482,
+      "fuel_burn_rate": 2434.8994477052856,
+      "oil_temperature": 81.93061882959059,
+      "oil_pressure": 43.4323492278601,
+      "cabin_pressure_psi": 10.876883255038395,
+      "cabin_temperature_c": 20.901499613044535,
+      "airspeed_knots": 408.1948631550478,
+      "altitude_ft": 33460.091689374975,
+      "turbulence_level": 6.367666756640878
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-18T00:44:54.861124",
+    "metrics": {
+      "engine_thrust_percent": 97.33835516895398,
+      "engine_vibration": 2.369696310354123,
+      "fuel_burn_rate": 2964.027328192502,
+      "oil_temperature": 112.98657489804516,
+      "oil_pressure": 49.54348690776576,
+      "cabin_pressure_psi": 11.268166350105833,
+      "cabin_temperature_c": 27.01059888956304,
+      "airspeed_knots": 404.14633871047477,
+      "altitude_ft": 39392.397069984974,
+      "turbulence_level": 6.358640916759622
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-19T18:44:54.861129",
+    "metrics": {
+      "engine_thrust_percent": 71.17254609948765,
+      "engine_vibration": 5.496499626104639,
+      "fuel_burn_rate": 2145.6721105090496,
+      "oil_temperature": 101.93309072543227,
+      "oil_pressure": 37.33122455529245,
+      "cabin_pressure_psi": 10.593511967991441,
+      "cabin_temperature_c": 27.22357933260925,
+      "airspeed_knots": 412.54866502633524,
+      "altitude_ft": 37362.33206277503,
+      "turbulence_level": 6.828134978296177
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA565",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-19T08:44:54.861134",
+    "metrics": {
+      "engine_thrust_percent": 91.97152631633409,
+      "engine_vibration": 2.9554830013581146,
+      "fuel_burn_rate": 2400.188340653866,
+      "oil_temperature": 87.08111369356908,
+      "oil_pressure": 44.53022322090807,
+      "cabin_pressure_psi": 11.453081147834045,
+      "cabin_temperature_c": 22.768013573488215,
+      "airspeed_knots": 462.45607447453006,
+      "altitude_ft": 31199.838758173304,
+      "turbulence_level": 4.214858561983151
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA887",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T02:44:54.861138",
+    "metrics": {
+      "engine_thrust_percent": 74.54113964342903,
+      "engine_vibration": 4.062429266042032,
+      "fuel_burn_rate": 2326.9649172328427,
+      "oil_temperature": 85.56577142829723,
+      "oil_pressure": 37.92411255824898,
+      "cabin_pressure_psi": 10.52391403628217,
+      "cabin_temperature_c": 28.31065179637151,
+      "airspeed_knots": 516.3920966012915,
+      "altitude_ft": 34214.6411993903,
+      "turbulence_level": 4.075002833266136
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA943",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-18T21:44:54.861146",
+    "metrics": {
+      "engine_thrust_percent": 77.57665829318493,
+      "engine_vibration": 6.950526742545517,
+      "fuel_burn_rate": 2960.061880484571,
+      "oil_temperature": 111.61112606464407,
+      "oil_pressure": 41.79427336183463,
+      "cabin_pressure_psi": 11.413872983138143,
+      "cabin_temperature_c": 21.57465364601725,
+      "airspeed_knots": 540.9591949396291,
+      "altitude_ft": 32790.0300772511,
+      "turbulence_level": 6.660445579840702
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-010",
+    "timestamp": "2026-01-16T22:44:54.861151",
+    "metrics": {
+      "engine_thrust_percent": 86.53823600977037,
+      "engine_vibration": 4.417126937291546,
+      "fuel_burn_rate": 2077.308258794786,
+      "oil_temperature": 90.25115129895434,
+      "oil_pressure": 41.9732797866727,
+      "cabin_pressure_psi": 10.85810655954913,
+      "cabin_temperature_c": 24.361452786265392,
+      "airspeed_knots": 443.05158852685014,
+      "altitude_ft": 30197.499448465845,
+      "turbulence_level": 3.0330404547242606
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA930",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-17T12:44:54.861413",
+    "metrics": {
+      "engine_thrust_percent": 90.04032730750669,
+      "engine_vibration": 4.367816953737965,
+      "fuel_burn_rate": 3076.255654649337,
+      "oil_temperature": 112.6924751949953,
+      "oil_pressure": 47.79146436825717,
+      "cabin_pressure_psi": 10.760879564945924,
+      "cabin_temperature_c": 28.912998740153423,
+      "airspeed_knots": 413.79003471926455,
+      "altitude_ft": 32245.640375979918,
+      "turbulence_level": 6.908147972670497
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T12:44:54.861421",
+    "metrics": {
+      "engine_thrust_percent": 88.58316375391601,
+      "engine_vibration": 2.6262429885620406,
+      "fuel_burn_rate": 2680.2443390505045,
+      "oil_temperature": 113.27305723844593,
+      "oil_pressure": 37.39495583867102,
+      "cabin_pressure_psi": 10.570153944508663,
+      "cabin_temperature_c": 20.015951747866985,
+      "airspeed_knots": 514.3867027953411,
+      "altitude_ft": 37680.202495985504,
+      "turbulence_level": 5.360685973219973
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA565",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-18T07:44:54.861430",
+    "metrics": {
+      "engine_thrust_percent": 94.0038379311685,
+      "engine_vibration": 8.569198531849901,
+      "fuel_burn_rate": 3198.478793684091,
+      "oil_temperature": 101.17487657989733,
+      "oil_pressure": 37.098643312608814,
+      "cabin_pressure_psi": 10.996787644682174,
+      "cabin_temperature_c": 25.81823379217993,
+      "airspeed_knots": 463.0218227555819,
+      "altitude_ft": 39441.896596443534,
+      "turbulence_level": 1.7601761258721904
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-18T18:44:54.861435",
+    "metrics": {
+      "engine_thrust_percent": 97.782128324622,
+      "engine_vibration": 2.823069068445206,
+      "fuel_burn_rate": 2566.895773559857,
+      "oil_temperature": 117.78986133735194,
+      "oil_pressure": 40.06987954717548,
+      "cabin_pressure_psi": 11.333202024903473,
+      "cabin_temperature_c": 20.87682826417672,
+      "airspeed_knots": 498.1825679972271,
+      "altitude_ft": 37984.88450843937,
+      "turbulence_level": 4.174592185022015
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA887",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T18:44:54.861440",
+    "metrics": {
+      "engine_thrust_percent": 101.67848515753201,
+      "engine_vibration": 8.375973095153554,
+      "fuel_burn_rate": 2928.1667740983444,
+      "oil_temperature": 82.42948574402155,
+      "oil_pressure": 48.75651384868685,
+      "cabin_pressure_psi": 11.465250563801286,
+      "cabin_temperature_c": 24.923088599351846,
+      "airspeed_knots": 510.99716307416566,
+      "altitude_ft": 30816.417577744778,
+      "turbulence_level": 3.795324292564513
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA930",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-19T21:44:54.861445",
+    "metrics": {
+      "engine_thrust_percent": 104.46253572063341,
+      "engine_vibration": 6.1561083993146095,
+      "fuel_burn_rate": 3455.6577200056863,
+      "oil_temperature": 107.39339632400277,
+      "oil_pressure": 47.303104746718944,
+      "cabin_pressure_psi": 11.046390137752459,
+      "cabin_temperature_c": 24.322237516697022,
+      "airspeed_knots": 545.0047046544448,
+      "altitude_ft": 37646.344779181054,
+      "turbulence_level": 7.7867859472166
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA582",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-17T19:44:54.861450",
+    "metrics": {
+      "engine_thrust_percent": 102.42584841529423,
+      "engine_vibration": 7.0084658217476745,
+      "fuel_burn_rate": 3010.6256291295113,
+      "oil_temperature": 89.52191501568926,
+      "oil_pressure": 46.183251715714476,
+      "cabin_pressure_psi": 11.174146166472562,
+      "cabin_temperature_c": 25.706491766495507,
+      "airspeed_knots": 400.61289025120215,
+      "altitude_ft": 32602.189528082276,
+      "turbulence_level": 7.215066036241606
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-19T22:44:54.861455",
+    "metrics": {
+      "engine_thrust_percent": 87.26611946997383,
+      "engine_vibration": 7.617272941645711,
+      "fuel_burn_rate": 2947.1723725114507,
+      "oil_temperature": 81.99415522994411,
+      "oil_pressure": 40.90185624252227,
+      "cabin_pressure_psi": 10.748091718908686,
+      "cabin_temperature_c": 28.562516612917193,
+      "airspeed_knots": 549.4721230316349,
+      "altitude_ft": 34732.79341901795,
+      "turbulence_level": 3.485669871281885
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA889",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-18T09:44:54.861462",
+    "metrics": {
+      "engine_thrust_percent": 76.50925494301211,
+      "engine_vibration": 3.5177692392346636,
+      "fuel_burn_rate": 3236.5578624323457,
+      "oil_temperature": 90.66586566324777,
+      "oil_pressure": 43.966939898690924,
+      "cabin_pressure_psi": 10.85440864995936,
+      "cabin_temperature_c": 25.417008403815004,
+      "airspeed_knots": 459.8223205064799,
+      "altitude_ft": 38214.253882377394,
+      "turbulence_level": 4.102267900234651
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-16T22:44:54.861468",
+    "metrics": {
+      "engine_thrust_percent": 87.93052848024448,
+      "engine_vibration": 6.565099611143096,
+      "fuel_burn_rate": 2671.292130052515,
+      "oil_temperature": 108.52414147828446,
+      "oil_pressure": 40.33470713452243,
+      "cabin_pressure_psi": 10.551434533514975,
+      "cabin_temperature_c": 28.666116205505862,
+      "airspeed_knots": 426.16542315140305,
+      "altitude_ft": 35876.22397744246,
+      "turbulence_level": 7.118712082300504
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA887",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-17T00:44:54.861473",
+    "metrics": {
+      "engine_thrust_percent": 104.47307125306328,
+      "engine_vibration": 5.052217563970902,
+      "fuel_burn_rate": 3199.024963540825,
+      "oil_temperature": 91.85688085098298,
+      "oil_pressure": 41.39639825902925,
+      "cabin_pressure_psi": 11.439589432150276,
+      "cabin_temperature_c": 29.073735306352972,
+      "airspeed_knots": 493.89479653683276,
+      "altitude_ft": 39628.93429325497,
+      "turbulence_level": 6.113180165446861
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-17T12:44:54.861477",
+    "metrics": {
+      "engine_thrust_percent": 99.6158315840167,
+      "engine_vibration": 2.7629493726423027,
+      "fuel_burn_rate": 3192.824500211004,
+      "oil_temperature": 111.52422257492681,
+      "oil_pressure": 40.90458792439814,
+      "cabin_pressure_psi": 10.693316292356819,
+      "cabin_temperature_c": 22.807771988733894,
+      "airspeed_knots": 511.2393685939229,
+      "altitude_ft": 32853.577782278706,
+      "turbulence_level": 2.827750761727241
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T05:44:54.861482",
+    "metrics": {
+      "engine_thrust_percent": 85.01823295231608,
+      "engine_vibration": 7.89755081536023,
+      "fuel_burn_rate": 2536.2055820456335,
+      "oil_temperature": 86.12652105937885,
+      "oil_pressure": 40.236874457936395,
+      "cabin_pressure_psi": 10.965482693887857,
+      "cabin_temperature_c": 29.786568652721897,
+      "airspeed_knots": 514.5813102600074,
+      "altitude_ft": 35903.1693201175,
+      "turbulence_level": 6.0957550859641865
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA250",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T13:44:54.861487",
+    "metrics": {
+      "engine_thrust_percent": 85.54524557490556,
+      "engine_vibration": 7.5830627295154125,
+      "fuel_burn_rate": 2811.294460715965,
+      "oil_temperature": 99.65427090286394,
+      "oil_pressure": 45.795474835640576,
+      "cabin_pressure_psi": 10.794765024812895,
+      "cabin_temperature_c": 29.82248180580433,
+      "airspeed_knots": 447.8923755988091,
+      "altitude_ft": 37740.12820792393,
+      "turbulence_level": 1.3549232109933853
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-19T15:44:54.861493",
+    "metrics": {
+      "engine_thrust_percent": 80.78666704418897,
+      "engine_vibration": 8.416370093399847,
+      "fuel_burn_rate": 2142.5207714140115,
+      "oil_temperature": 85.80836678563477,
+      "oil_pressure": 36.867205099829285,
+      "cabin_pressure_psi": 11.002477918974913,
+      "cabin_temperature_c": 24.59734110216798,
+      "airspeed_knots": 425.69544403062554,
+      "altitude_ft": 33320.6207758454,
+      "turbulence_level": 8.89568843473975
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA789",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-18T22:44:54.861498",
+    "metrics": {
+      "engine_thrust_percent": 74.423353557843,
+      "engine_vibration": 8.430276569438487,
+      "fuel_burn_rate": 2575.103935626236,
+      "oil_temperature": 112.59750159270176,
+      "oil_pressure": 42.2932409667409,
+      "cabin_pressure_psi": 10.520896396642073,
+      "cabin_temperature_c": 28.708887847863217,
+      "airspeed_knots": 484.1836067432055,
+      "altitude_ft": 38427.10292995056,
+      "turbulence_level": 2.5883437768910538
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA943",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T20:44:54.861503",
+    "metrics": {
+      "engine_thrust_percent": 81.40848096417112,
+      "engine_vibration": 1.3931691915905011,
+      "fuel_burn_rate": 2373.5271972419027,
+      "oil_temperature": 107.70506029469597,
+      "oil_pressure": 37.65431677366254,
+      "cabin_pressure_psi": 11.247594487779432,
+      "cabin_temperature_c": 21.37245943486296,
+      "airspeed_knots": 453.3070569462506,
+      "altitude_ft": 39448.69363014896,
+      "turbulence_level": 8.680544190908536
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA565",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-18T13:44:54.861508",
+    "metrics": {
+      "engine_thrust_percent": 80.05913410839716,
+      "engine_vibration": 4.325450157592198,
+      "fuel_burn_rate": 2513.7267194429346,
+      "oil_temperature": 102.21860210273519,
+      "oil_pressure": 43.145840554477765,
+      "cabin_pressure_psi": 11.4601104736761,
+      "cabin_temperature_c": 29.281552230342527,
+      "airspeed_knots": 432.47636307785336,
+      "altitude_ft": 32815.24331732675,
+      "turbulence_level": 3.272798726707804
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-18T14:44:54.861512",
+    "metrics": {
+      "engine_thrust_percent": 88.3123593849296,
+      "engine_vibration": 2.695723103186542,
+      "fuel_burn_rate": 2994.074603913002,
+      "oil_temperature": 100.6264591146024,
+      "oil_pressure": 47.72102210444463,
+      "cabin_pressure_psi": 10.709354084287392,
+      "cabin_temperature_c": 21.738672702719867,
+      "airspeed_knots": 481.96579698694666,
+      "altitude_ft": 35953.05995574396,
+      "turbulence_level": 9.510895936400269
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA789",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-19T06:44:54.861517",
+    "metrics": {
+      "engine_thrust_percent": 75.38933897714216,
+      "engine_vibration": 1.904678969800364,
+      "fuel_burn_rate": 2252.2463144895964,
+      "oil_temperature": 83.52062893022588,
+      "oil_pressure": 38.13166027116764,
+      "cabin_pressure_psi": 11.15544963712076,
+      "cabin_temperature_c": 23.73353816983729,
+      "airspeed_knots": 420.53741846220913,
+      "altitude_ft": 37017.08673850227,
+      "turbulence_level": 4.479667122431982
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA930",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-19T15:44:54.861522",
+    "metrics": {
+      "engine_thrust_percent": 97.5034294932068,
+      "engine_vibration": 2.4492446075703542,
+      "fuel_burn_rate": 3095.557140984297,
+      "oil_temperature": 116.78334851083258,
+      "oil_pressure": 36.33242749877637,
+      "cabin_pressure_psi": 10.520954975725846,
+      "cabin_temperature_c": 29.37358005150352,
+      "airspeed_knots": 430.5569922253335,
+      "altitude_ft": 33846.24605716873,
+      "turbulence_level": 2.5383791175718406
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA686",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-19T01:44:54.861527",
+    "metrics": {
+      "engine_thrust_percent": 102.46527884471487,
+      "engine_vibration": 2.5023836811593023,
+      "fuel_burn_rate": 2865.406082718676,
+      "oil_temperature": 115.14650225022066,
+      "oil_pressure": 48.81264895707563,
+      "cabin_pressure_psi": 11.46608204865502,
+      "cabin_temperature_c": 27.41882197377621,
+      "airspeed_knots": 457.0169165530813,
+      "altitude_ft": 31863.60895593047,
+      "turbulence_level": 9.231991997631244
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA789",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-17T12:44:54.861532",
+    "metrics": {
+      "engine_thrust_percent": 71.46566830428532,
+      "engine_vibration": 7.630015320635199,
+      "fuel_burn_rate": 2945.854905215499,
+      "oil_temperature": 110.92230969271795,
+      "oil_pressure": 42.96501058939468,
+      "cabin_pressure_psi": 10.748839128409395,
+      "cabin_temperature_c": 21.25004446755169,
+      "airspeed_knots": 445.7954045247322,
+      "altitude_ft": 39844.757140714675,
+      "turbulence_level": 6.971501521733032
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA795",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-19T17:44:54.861537",
+    "metrics": {
+      "engine_thrust_percent": 88.26225793856828,
+      "engine_vibration": 7.665963684190924,
+      "fuel_burn_rate": 2975.076100579356,
+      "oil_temperature": 82.4326319263143,
+      "oil_pressure": 41.230461530406764,
+      "cabin_pressure_psi": 11.328579745758404,
+      "cabin_temperature_c": 28.626863757356688,
+      "airspeed_knots": 464.137352510622,
+      "altitude_ft": 30234.62203455315,
+      "turbulence_level": 1.824662922598552
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA930",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T00:44:54.861542",
+    "metrics": {
+      "engine_thrust_percent": 98.75139787016698,
+      "engine_vibration": 2.229579300775254,
+      "fuel_burn_rate": 3489.051855407881,
+      "oil_temperature": 116.70956418873666,
+      "oil_pressure": 45.76756003195124,
+      "cabin_pressure_psi": 11.085585777553543,
+      "cabin_temperature_c": 21.12076132060367,
+      "airspeed_knots": 424.8927612050502,
+      "altitude_ft": 39919.92789156728,
+      "turbulence_level": 5.497815915409725
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA966",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-17T17:44:54.861548",
+    "metrics": {
+      "engine_thrust_percent": 93.4325743920302,
+      "engine_vibration": 1.131468411528008,
+      "fuel_burn_rate": 2864.803876395994,
+      "oil_temperature": 86.14794791094481,
+      "oil_pressure": 35.09383977718627,
+      "cabin_pressure_psi": 11.080728798251478,
+      "cabin_temperature_c": 29.782993314683864,
+      "airspeed_knots": 524.22317825998,
+      "altitude_ft": 36274.85796591597,
+      "turbulence_level": 6.843981393255635
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-19T12:44:54.861553",
+    "metrics": {
+      "engine_thrust_percent": 95.64274587596128,
+      "engine_vibration": 8.28528036368811,
+      "fuel_burn_rate": 3104.0740668535304,
+      "oil_temperature": 85.75221218029043,
+      "oil_pressure": 43.15053895849771,
+      "cabin_pressure_psi": 10.891355674354255,
+      "cabin_temperature_c": 27.930563848029024,
+      "airspeed_knots": 503.9707721727505,
+      "altitude_ft": 36518.54917372988,
+      "turbulence_level": 7.803652378821863
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T16:44:54.861560",
+    "metrics": {
+      "engine_thrust_percent": 73.27121825533582,
+      "engine_vibration": 6.023540240484232,
+      "fuel_burn_rate": 2205.6907474397262,
+      "oil_temperature": 113.92313758700436,
+      "oil_pressure": 46.689873671178376,
+      "cabin_pressure_psi": 10.711365554652536,
+      "cabin_temperature_c": 24.350843158308248,
+      "airspeed_knots": 520.4419771911363,
+      "altitude_ft": 39759.531193459705,
+      "turbulence_level": 9.732114813675485
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-19T02:44:54.861566",
+    "metrics": {
+      "engine_thrust_percent": 89.03022120903921,
+      "engine_vibration": 1.2400557404204493,
+      "fuel_burn_rate": 2740.530740906852,
+      "oil_temperature": 114.48514914043724,
+      "oil_pressure": 49.991176725613165,
+      "cabin_pressure_psi": 11.370804137237133,
+      "cabin_temperature_c": 25.36524430092128,
+      "airspeed_knots": 482.80520097850706,
+      "altitude_ft": 32289.726705037,
+      "turbulence_level": 6.352785148912135
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T05:44:54.861570",
+    "metrics": {
+      "engine_thrust_percent": 98.41646712495758,
+      "engine_vibration": 5.255115918663145,
+      "fuel_burn_rate": 2155.6097664406398,
+      "oil_temperature": 101.8214340115945,
+      "oil_pressure": 44.32353483450485,
+      "cabin_pressure_psi": 11.366289632289755,
+      "cabin_temperature_c": 26.45304928879144,
+      "airspeed_knots": 440.19207759446346,
+      "altitude_ft": 32623.498066267362,
+      "turbulence_level": 1.856169421731845
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA829",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-19T07:44:54.861575",
+    "metrics": {
+      "engine_thrust_percent": 94.12061726170003,
+      "engine_vibration": 1.69861940434747,
+      "fuel_burn_rate": 3287.468617750601,
+      "oil_temperature": 87.83870514927429,
+      "oil_pressure": 44.71847742582949,
+      "cabin_pressure_psi": 10.914556660477778,
+      "cabin_temperature_c": 29.373077180967556,
+      "airspeed_knots": 461.96367620794297,
+      "altitude_ft": 35471.01532750075,
+      "turbulence_level": 9.94769330501793
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-17T19:44:54.861580",
+    "metrics": {
+      "engine_thrust_percent": 100.03230187111494,
+      "engine_vibration": 2.226713387897137,
+      "fuel_burn_rate": 3280.5233397558295,
+      "oil_temperature": 113.6773195906558,
+      "oil_pressure": 35.76434429811098,
+      "cabin_pressure_psi": 11.484292834021769,
+      "cabin_temperature_c": 29.2551820080821,
+      "airspeed_knots": 431.1634235175652,
+      "altitude_ft": 34510.91555545726,
+      "turbulence_level": 5.92893374406171
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA420",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-19T15:44:54.861586",
+    "metrics": {
+      "engine_thrust_percent": 92.82645809217419,
+      "engine_vibration": 2.8210404528849464,
+      "fuel_burn_rate": 3316.933233845284,
+      "oil_temperature": 87.86040789974687,
+      "oil_pressure": 49.31226905903523,
+      "cabin_pressure_psi": 11.025358728760049,
+      "cabin_temperature_c": 21.808315168135433,
+      "airspeed_knots": 501.86650007044113,
+      "altitude_ft": 32135.58849799141,
+      "turbulence_level": 2.1097517887757746
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA453",
+    "aircraft_id": "GA-004",
+    "timestamp": "2026-01-19T14:44:54.861592",
+    "metrics": {
+      "engine_thrust_percent": 76.9677629627393,
+      "engine_vibration": 6.555782615753755,
+      "fuel_burn_rate": 3465.086364097252,
+      "oil_temperature": 91.25717413587488,
+      "oil_pressure": 45.02692403076579,
+      "cabin_pressure_psi": 10.860448315286394,
+      "cabin_temperature_c": 28.80714409869399,
+      "airspeed_knots": 436.6162995253597,
+      "altitude_ft": 34855.067208159235,
+      "turbulence_level": 1.3957856725059927
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-17T00:44:54.861597",
+    "metrics": {
+      "engine_thrust_percent": 77.61880890908722,
+      "engine_vibration": 3.4163404327040725,
+      "fuel_burn_rate": 2814.4359658321223,
+      "oil_temperature": 91.74360690977215,
+      "oil_pressure": 44.562726874332654,
+      "cabin_pressure_psi": 11.191718545557045,
+      "cabin_temperature_c": 26.08335100978049,
+      "airspeed_knots": 501.75651619034073,
+      "altitude_ft": 35796.494852473974,
+      "turbulence_level": 8.334815414324957
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA795",
+    "aircraft_id": "GA-002",
+    "timestamp": "2026-01-17T03:44:54.861601",
+    "metrics": {
+      "engine_thrust_percent": 93.75416035790377,
+      "engine_vibration": 3.3842628443653178,
+      "fuel_burn_rate": 3405.309729670969,
+      "oil_temperature": 92.12801459476833,
+      "oil_pressure": 43.14865836575012,
+      "cabin_pressure_psi": 11.468261381201888,
+      "cabin_temperature_c": 23.571070959731834,
+      "airspeed_knots": 462.0560233106612,
+      "altitude_ft": 30286.394709541135,
+      "turbulence_level": 8.914581111500832
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-010",
+    "timestamp": "2026-01-17T19:44:54.861606",
+    "metrics": {
+      "engine_thrust_percent": 91.01640108073619,
+      "engine_vibration": 6.420610438627049,
+      "fuel_burn_rate": 2711.272961367248,
+      "oil_temperature": 92.52522165236999,
+      "oil_pressure": 36.5649924904902,
+      "cabin_pressure_psi": 11.061504083849577,
+      "cabin_temperature_c": 29.593086227801102,
+      "airspeed_knots": 440.4670682124065,
+      "altitude_ft": 30956.861563406997,
+      "turbulence_level": 5.982080368328148
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-009",
+    "timestamp": "2026-01-19T19:44:54.861611",
+    "metrics": {
+      "engine_thrust_percent": 95.87915123008013,
+      "engine_vibration": 3.5681925762811915,
+      "fuel_burn_rate": 3477.972184845197,
+      "oil_temperature": 110.59877389159752,
+      "oil_pressure": 39.61481936128935,
+      "cabin_pressure_psi": 11.175944995714174,
+      "cabin_temperature_c": 21.836548981170715,
+      "airspeed_knots": 545.9498750275484,
+      "altitude_ft": 39497.000046713874,
+      "turbulence_level": 7.1178968454203595
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA966",
+    "aircraft_id": "GA-006",
+    "timestamp": "2026-01-17T05:44:54.861615",
+    "metrics": {
+      "engine_thrust_percent": 79.74269922257699,
+      "engine_vibration": 6.833631839095928,
+      "fuel_burn_rate": 2690.3155285736602,
+      "oil_temperature": 116.76810157962753,
+      "oil_pressure": 46.257258892858225,
+      "cabin_pressure_psi": 10.765210001058126,
+      "cabin_temperature_c": 23.224982685021025,
+      "airspeed_knots": 413.72160845224505,
+      "altitude_ft": 35455.23260556449,
+      "turbulence_level": 2.364204141463766
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-008",
+    "timestamp": "2026-01-19T04:44:54.861620",
+    "metrics": {
+      "engine_thrust_percent": 103.41983820269209,
+      "engine_vibration": 1.1103378462695037,
+      "fuel_burn_rate": 3455.023473653526,
+      "oil_temperature": 98.84791219066908,
+      "oil_pressure": 36.22701567110291,
+      "cabin_pressure_psi": 11.144827334116947,
+      "cabin_temperature_c": 21.139311965883813,
+      "airspeed_knots": 431.58194206914806,
+      "altitude_ft": 34273.0485772686,
+      "turbulence_level": 7.6259065645688295
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA716",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-18T06:44:54.861627",
+    "metrics": {
+      "engine_thrust_percent": 85.46444438108257,
+      "engine_vibration": 2.0437552625045816,
+      "fuel_burn_rate": 3467.4757510030045,
+      "oil_temperature": 99.39127505418813,
+      "oil_pressure": 42.118075468754945,
+      "cabin_pressure_psi": 11.425254271059412,
+      "cabin_temperature_c": 24.706787812835707,
+      "airspeed_knots": 512.0189454239394,
+      "altitude_ft": 32508.76715134356,
+      "turbulence_level": 2.13007509187211
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-18T05:44:54.861631",
+    "metrics": {
+      "engine_thrust_percent": 101.8643560926546,
+      "engine_vibration": 1.4174363228127609,
+      "fuel_burn_rate": 2860.1798246840435,
+      "oil_temperature": 87.21678634204424,
+      "oil_pressure": 44.67578042164091,
+      "cabin_pressure_psi": 11.391176348441963,
+      "cabin_temperature_c": 28.47199182684573,
+      "airspeed_knots": 451.36155781530096,
+      "altitude_ft": 31165.550514612136,
+      "turbulence_level": 3.493557764819494
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-17T08:44:54.861636",
+    "metrics": {
+      "engine_thrust_percent": 70.7681600861441,
+      "engine_vibration": 8.301672695617354,
+      "fuel_burn_rate": 3474.422972638148,
+      "oil_temperature": 95.97566979554396,
+      "oil_pressure": 44.90724859472856,
+      "cabin_pressure_psi": 11.001149052935029,
+      "cabin_temperature_c": 26.103202114650372,
+      "airspeed_knots": 529.9113442615374,
+      "altitude_ft": 35743.50327580938,
+      "turbulence_level": 6.1511177363669844
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA930",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-19T10:44:54.861641",
+    "metrics": {
+      "engine_thrust_percent": 85.51623618460371,
+      "engine_vibration": 6.145687781272827,
+      "fuel_burn_rate": 2520.853635690458,
+      "oil_temperature": 114.83867993923978,
+      "oil_pressure": 49.779337259960016,
+      "cabin_pressure_psi": 11.43430612436704,
+      "cabin_temperature_c": 25.806750625635907,
+      "airspeed_knots": 425.8617370120839,
+      "altitude_ft": 38178.96520526429,
+      "turbulence_level": 1.9344726468621953
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA943",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-19T16:44:54.861645",
+    "metrics": {
+      "engine_thrust_percent": 74.2114426226659,
+      "engine_vibration": 5.741222999620158,
+      "fuel_burn_rate": 2300.6955302283936,
+      "oil_temperature": 115.1393744213841,
+      "oil_pressure": 48.29190278264945,
+      "cabin_pressure_psi": 10.72681636099881,
+      "cabin_temperature_c": 24.0179981987115,
+      "airspeed_knots": 450.79572232212587,
+      "altitude_ft": 39805.99803665947,
+      "turbulence_level": 6.545036796449238
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-010",
+    "timestamp": "2026-01-17T01:44:54.861650",
+    "metrics": {
+      "engine_thrust_percent": 73.17656701180172,
+      "engine_vibration": 4.676061608781827,
+      "fuel_burn_rate": 2697.6873354631553,
+      "oil_temperature": 80.6674236999243,
+      "oil_pressure": 36.633206709952155,
+      "cabin_pressure_psi": 10.54346453320001,
+      "cabin_temperature_c": 24.00217522275369,
+      "airspeed_knots": 400.45562433393417,
+      "altitude_ft": 33223.27878454885,
+      "turbulence_level": 3.3832080802847577
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA565",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-17T22:44:54.861655",
+    "metrics": {
+      "engine_thrust_percent": 101.81039634659035,
+      "engine_vibration": 1.890788392295935,
+      "fuel_burn_rate": 2255.542552116161,
+      "oil_temperature": 89.54963331000491,
+      "oil_pressure": 49.13977526327042,
+      "cabin_pressure_psi": 11.181599513355405,
+      "cabin_temperature_c": 25.24455528406659,
+      "airspeed_knots": 431.04818195500843,
+      "altitude_ft": 32260.68582138668,
+      "turbulence_level": 8.10672632406486
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA795",
+    "aircraft_id": "GA-001",
+    "timestamp": "2026-01-17T23:44:54.861662",
+    "metrics": {
+      "engine_thrust_percent": 100.18349855993488,
+      "engine_vibration": 4.617052678756454,
+      "fuel_burn_rate": 2929.487482461176,
+      "oil_temperature": 103.56384794038289,
+      "oil_pressure": 41.92785239256666,
+      "cabin_pressure_psi": 11.432391705538908,
+      "cabin_temperature_c": 23.915686139762048,
+      "airspeed_knots": 462.70679661141395,
+      "altitude_ft": 38812.09714850733,
+      "turbulence_level": 4.449753223358547
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA546",
+    "aircraft_id": "GA-005",
+    "timestamp": "2026-01-19T13:44:54.861668",
+    "metrics": {
+      "engine_thrust_percent": 87.19627248338288,
+      "engine_vibration": 5.009918121399967,
+      "fuel_burn_rate": 2294.8592961860986,
+      "oil_temperature": 80.21105084495845,
+      "oil_pressure": 49.66034556019784,
+      "cabin_pressure_psi": 10.589278377488261,
+      "cabin_temperature_c": 24.47393946531716,
+      "airspeed_knots": 449.53130713590167,
+      "altitude_ft": 36565.46185045077,
+      "turbulence_level": 8.321232482728831
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-18T02:44:54.861672",
+    "metrics": {
+      "engine_thrust_percent": 85.15428756999783,
+      "engine_vibration": 1.8755999139458712,
+      "fuel_burn_rate": 2976.225797274075,
+      "oil_temperature": 112.41140378016695,
+      "oil_pressure": 47.59353356543922,
+      "cabin_pressure_psi": 11.307330375754386,
+      "cabin_temperature_c": 21.220902231202817,
+      "airspeed_knots": 529.1999260917501,
+      "altitude_ft": 35304.60472309566,
+      "turbulence_level": 4.45688425755298
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA565",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-19T21:44:54.861677",
+    "metrics": {
+      "engine_thrust_percent": 87.1544370146835,
+      "engine_vibration": 1.26482414496291,
+      "fuel_burn_rate": 3087.965678344016,
+      "oil_temperature": 114.90600684861055,
+      "oil_pressure": 35.94918715661855,
+      "cabin_pressure_psi": 11.284903865705665,
+      "cabin_temperature_c": 21.778612433077836,
+      "airspeed_knots": 421.74293377933134,
+      "altitude_ft": 34488.59470416052,
+      "turbulence_level": 7.973774300999309
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA408",
+    "aircraft_id": "GA-010",
+    "timestamp": "2026-01-19T22:44:54.861681",
+    "metrics": {
+      "engine_thrust_percent": 82.09957218356902,
+      "engine_vibration": 1.9227903037142005,
+      "fuel_burn_rate": 3356.093457365172,
+      "oil_temperature": 83.94589847697452,
+      "oil_pressure": 35.82990490793467,
+      "cabin_pressure_psi": 11.097039444082563,
+      "cabin_temperature_c": 28.227006379253616,
+      "airspeed_knots": 513.3248387902497,
+      "altitude_ft": 34534.71408611217,
+      "turbulence_level": 5.9186064985890185
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA398",
+    "aircraft_id": "GA-003",
+    "timestamp": "2026-01-17T17:44:54.861686",
+    "metrics": {
+      "engine_thrust_percent": 94.47571440188206,
+      "engine_vibration": 4.481483320941317,
+      "fuel_burn_rate": 2564.2085975525115,
+      "oil_temperature": 109.84274545191752,
+      "oil_pressure": 37.65398078234119,
+      "cabin_pressure_psi": 11.156415656626866,
+      "cabin_temperature_c": 20.038792708505024,
+      "airspeed_knots": 410.25766326678286,
+      "altitude_ft": 33951.08914115238,
+      "turbulence_level": 3.8197093452829667
+    },
+    "status": "WARNING"
+  },
+  {
+    "flight_id": "GA312",
+    "aircraft_id": "GA-010",
+    "timestamp": "2026-01-18T12:44:54.861692",
+    "metrics": {
+      "engine_thrust_percent": 87.19537741497965,
+      "engine_vibration": 8.697804085537522,
+      "fuel_burn_rate": 2045.2191533796195,
+      "oil_temperature": 110.42208088185909,
+      "oil_pressure": 35.570865328212705,
+      "cabin_pressure_psi": 10.868481070315202,
+      "cabin_temperature_c": 22.85470457184128,
+      "airspeed_knots": 474.632386225389,
+      "altitude_ft": 34848.17757464305,
+      "turbulence_level": 2.926914623175686
+    },
+    "status": "NORMAL"
+  },
+  {
+    "flight_id": "GA307",
+    "aircraft_id": "GA-007",
+    "timestamp": "2026-01-17T18:44:54.861698",
+    "metrics": {
+      "engine_thrust_percent": 79.55981099150208,
+      "engine_vibration": 2.8304906590173893,
+      "fuel_burn_rate": 2894.6416950621256,
+      "oil_temperature": 95.87455119574014,
+      "oil_pressure": 40.30722269712791,
+      "cabin_pressure_psi": 11.433127852216662,
+      "cabin_temperature_c": 25.21536962178738,
+      "airspeed_knots": 452.62640786088014,
+      "altitude_ft": 38151.436808734514,
+      "turbulence_level": 3.3828297241959793
+    },
+    "status": "NORMAL"
+  }
+]

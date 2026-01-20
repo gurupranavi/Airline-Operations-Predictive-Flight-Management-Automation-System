@@ -1,0 +1,102 @@
+{"timestamp": "2026-01-19T22:46:13.227716", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.227830", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.231308", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.231327", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.232155", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.232167", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.232171", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.232863", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.232870", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.233670", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.238226", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.238749", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.238763", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.239950", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.239963", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.240966", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:46:13.240977", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.585098", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.585116", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.590277", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.590332", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.591914", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.591928", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.591933", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.592965", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.592979", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.595484", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.598098", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.598648", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.598657", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.599433", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.599446", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.600503", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-19T22:47:35.600515", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.201617", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.201685", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.205212", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.205228", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.205946", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.205961", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.205964", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.207642", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.207663", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.210560", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.221931", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.222835", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.222855", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.225286", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.225324", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.227866", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T21:31:37.227909", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.277278", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.277308", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.278424", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.278432", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.278913", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.278920", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.278922", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.279620", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.279628", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.280174", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.281615", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.281949", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.281960", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.282474", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.282484", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.283214", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:16:28.283224", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.924317", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.924352", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.926842", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.926860", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.928049", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.928067", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.928072", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.929386", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.929403", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.929986", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.931557", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.931861", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.931870", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.932409", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.932420", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.933197", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:42:51.933208", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.819970", "aircraft_id": "GA-008", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.4", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.820002", "aircraft_id": "GA-008", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.822048", "aircraft_id": "GA-006", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2952 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.822065", "aircraft_id": "GA-006", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.823569", "aircraft_id": "GA-003", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.823585", "aircraft_id": "GA-003", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3299 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.823591", "aircraft_id": "GA-003", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 110.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.825577", "aircraft_id": "GA-009", "alert_type": "ENGINE_VIBRATION", "message": "High engine vibration: 7.2", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.825596", "aircraft_id": "GA-009", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 29.6C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.826590", "aircraft_id": "GA-007", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 3339 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.828770", "aircraft_id": "GA-001", "alert_type": "TURBULENCE", "message": "High turbulence level: 7.8", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.829450", "aircraft_id": "GA-002", "alert_type": "CABIN_TEMPERATURE", "message": "High cabin temperature: 28.2C", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.829461", "aircraft_id": "GA-002", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.3", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.830829", "aircraft_id": "GA-005", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2030 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.830843", "aircraft_id": "GA-005", "alert_type": "TURBULENCE", "message": "High turbulence level: 9.9", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.831528", "aircraft_id": "GA-010", "alert_type": "FUEL_BURN_ANOMALY", "message": "Abnormal fuel burn: 2077 kg/hr", "severity": "WARNING"}
+{"timestamp": "2026-01-20T22:48:06.831539", "aircraft_id": "GA-010", "alert_type": "SYSTEM_WARNING", "message": "Aircraft system warning flag detected", "severity": "WARNING"}

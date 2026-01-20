@@ -1,0 +1,12 @@
+{"timestamp": "2026-01-19T22:46:13.233678", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-19T22:46:13.233683", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}
+{"timestamp": "2026-01-19T22:47:35.595501", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-19T22:47:35.595513", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T21:31:37.210634", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T21:31:37.210655", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:16:28.280181", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:16:28.280184", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:42:51.929995", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:42:51.930001", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:48:06.826600", "aircraft_id": "GA-007", "alert_type": "OIL_TEMPERATURE", "message": "High oil temperature: 116.0C", "severity": "CRITICAL"}
+{"timestamp": "2026-01-20T22:48:06.826604", "aircraft_id": "GA-007", "alert_type": "ENGINE_THRUST", "message": "Engine thrust deviation: 72.8%", "severity": "CRITICAL"}

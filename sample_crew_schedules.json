@@ -1,0 +1,264 @@
+[
+  {
+    "crew_id": "C1000",
+    "name": "Rebecca Torres",
+    "role": "Pilot",
+    "current_location": "DXB",
+    "duty_hours_today": 11.887932713339856,
+    "rest_hours_remaining": 0.07719500123182943,
+    "assigned_flights": [
+      "GA428",
+      "GA763",
+      "GA571"
+    ],
+    "next_available": "2026-01-20T08:44:55.386304",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1001",
+    "name": "Ryan Lambert",
+    "role": "Attendant",
+    "current_location": "BOM",
+    "duty_hours_today": 5.380778251360824,
+    "rest_hours_remaining": 4.61582362606132,
+    "assigned_flights": [
+      "GA157",
+      "GA591",
+      "GA639"
+    ],
+    "next_available": "2026-01-19T23:44:55.386455",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1002",
+    "name": "Natalie Wallace",
+    "role": "Senior Attendant",
+    "current_location": "MAA",
+    "duty_hours_today": 11.38509264099934,
+    "rest_hours_remaining": 21.11081981340727,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T07:44:55.386557",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1003",
+    "name": "Christina Klein",
+    "role": "Senior Attendant",
+    "current_location": "DXB",
+    "duty_hours_today": 3.3087499964655436,
+    "rest_hours_remaining": 23.352647711597246,
+    "assigned_flights": [
+      "GA108",
+      "GA664"
+    ],
+    "next_available": "2026-01-20T07:44:55.386653",
+    "status": "ON_DUTY"
+  },
+  {
+    "crew_id": "C1004",
+    "name": "Stephanie Martin",
+    "role": "Co-Pilot",
+    "current_location": "DEL",
+    "duty_hours_today": 7.811777073680135,
+    "rest_hours_remaining": 9.459409760688764,
+    "assigned_flights": [
+      "GA988"
+    ],
+    "next_available": "2026-01-20T04:44:55.386745",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1005",
+    "name": "Claire Smith",
+    "role": "Pilot",
+    "current_location": "BOM",
+    "duty_hours_today": 0.7097272646998616,
+    "rest_hours_remaining": 5.143937072436963,
+    "assigned_flights": [
+      "GA235",
+      "GA762",
+      "GA231"
+    ],
+    "next_available": "2026-01-20T00:44:55.386834",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1006",
+    "name": "Tracy Newman",
+    "role": "Pilot",
+    "current_location": "BOM",
+    "duty_hours_today": 7.00014757928478,
+    "rest_hours_remaining": 2.513030600220876,
+    "assigned_flights": [
+      "GA364",
+      "GA623",
+      "GA670"
+    ],
+    "next_available": "2026-01-20T05:44:55.386931",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1007",
+    "name": "Brittany Williams",
+    "role": "Pilot",
+    "current_location": "BOM",
+    "duty_hours_today": 4.167382073207254,
+    "rest_hours_remaining": 1.518200064906698,
+    "assigned_flights": [
+      "GA498",
+      "GA260",
+      "GA295"
+    ],
+    "next_available": "2026-01-20T00:44:55.387022",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1008",
+    "name": "Dwayne Hutchinson",
+    "role": "Senior Attendant",
+    "current_location": "DXB",
+    "duty_hours_today": 10.067181103169485,
+    "rest_hours_remaining": 11.111649025588576,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T06:44:55.387109",
+    "status": "ON_DUTY"
+  },
+  {
+    "crew_id": "C1009",
+    "name": "Gregory Gutierrez",
+    "role": "Co-Pilot",
+    "current_location": "DXB",
+    "duty_hours_today": 4.61468820064044,
+    "rest_hours_remaining": 17.87904794968943,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T06:44:55.387194",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1010",
+    "name": "Jennifer Sanders",
+    "role": "Senior Attendant",
+    "current_location": "DXB",
+    "duty_hours_today": 2.1820749140635973,
+    "rest_hours_remaining": 14.424713458923229,
+    "assigned_flights": [
+      "GA870",
+      "GA234"
+    ],
+    "next_available": "2026-01-20T10:44:55.387280",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1011",
+    "name": "Gary Harrison",
+    "role": "Attendant",
+    "current_location": "MAA",
+    "duty_hours_today": 1.4290199460673416,
+    "rest_hours_remaining": 9.857590974140589,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T00:44:55.387378",
+    "status": "ON_DUTY"
+  },
+  {
+    "crew_id": "C1012",
+    "name": "Seth Newman",
+    "role": "Pilot",
+    "current_location": "DEL",
+    "duty_hours_today": 11.381073004583982,
+    "rest_hours_remaining": 8.586783239762617,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T01:44:55.387470",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1013",
+    "name": "Charles Baker",
+    "role": "Senior Attendant",
+    "current_location": "DEL",
+    "duty_hours_today": 10.240239197956388,
+    "rest_hours_remaining": 3.9945290560408697,
+    "assigned_flights": [
+      "GA920",
+      "GA483",
+      "GA230"
+    ],
+    "next_available": "2026-01-20T08:44:55.387558",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1014",
+    "name": "Hannah Bright",
+    "role": "Pilot",
+    "current_location": "DEL",
+    "duty_hours_today": 6.862672549369925,
+    "rest_hours_remaining": 11.111983112193803,
+    "assigned_flights": [
+      "GA258",
+      "GA756"
+    ],
+    "next_available": "2026-01-20T02:44:55.387650",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1015",
+    "name": "Alexis Johnson",
+    "role": "Co-Pilot",
+    "current_location": "MAA",
+    "duty_hours_today": 1.9888486707488626,
+    "rest_hours_remaining": 10.986579308539083,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T06:44:55.387734",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1016",
+    "name": "Angela Jones",
+    "role": "Pilot",
+    "current_location": "MAA",
+    "duty_hours_today": 8.5513168125223,
+    "rest_hours_remaining": 20.521959261251652,
+    "assigned_flights": [
+      "GA812",
+      "GA322"
+    ],
+    "next_available": "2026-01-20T03:44:55.387824",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1017",
+    "name": "Susan Sanders",
+    "role": "Co-Pilot",
+    "current_location": "DEL",
+    "duty_hours_today": 2.566865915076326,
+    "rest_hours_remaining": 23.650345363473228,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T00:44:55.387913",
+    "status": "AVAILABLE"
+  },
+  {
+    "crew_id": "C1018",
+    "name": "Shannon Castro",
+    "role": "Senior Attendant",
+    "current_location": "MAA",
+    "duty_hours_today": 8.970619532576272,
+    "rest_hours_remaining": 17.020881412457094,
+    "assigned_flights": [
+      "GA805",
+      "GA297",
+      "GA416"
+    ],
+    "next_available": "2026-01-20T09:44:55.388003",
+    "status": "RESTING"
+  },
+  {
+    "crew_id": "C1019",
+    "name": "Jessica Armstrong",
+    "role": "Pilot",
+    "current_location": "BOM",
+    "duty_hours_today": 0.664288838307324,
+    "rest_hours_remaining": 16.19665140043585,
+    "assigned_flights": [],
+    "next_available": "2026-01-20T07:44:55.388091",
+    "status": "ON_DUTY"
+  }
+]

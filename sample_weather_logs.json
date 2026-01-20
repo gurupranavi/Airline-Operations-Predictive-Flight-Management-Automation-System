@@ -1,0 +1,702 @@
+[
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T15:44:54.873081",
+    "weather_data": {
+      "temperature_c": 23.489671055289627,
+      "wind_speed_knots": 42.91080492432861,
+      "wind_direction": 257,
+      "visibility_meters": 2231.96407040904,
+      "humidity_percent": 55.83316648257818,
+      "pressure_hpa": 1015.9822488834188,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 47.47174546668337
+  },
+  {
+    "airport": "DEL",
+    "timestamp": "2026-01-19T03:44:54.873130",
+    "weather_data": {
+      "temperature_c": 15.661288262676662,
+      "wind_speed_knots": 22.887430321573206,
+      "wind_direction": 73,
+      "visibility_meters": 9655.989433844925,
+      "humidity_percent": 56.12898180864575,
+      "pressure_hpa": 1004.1947026822359,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 50.09339694085082
+  },
+  {
+    "airport": "MAA",
+    "timestamp": "2026-01-19T18:44:54.873146",
+    "weather_data": {
+      "temperature_c": 12.841718335221604,
+      "wind_speed_knots": 32.365646936983985,
+      "wind_direction": 151,
+      "visibility_meters": 2803.021231489433,
+      "humidity_percent": 68.39318430482079,
+      "pressure_hpa": 1028.1055457942757,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 41.31935106906206
+  },
+  {
+    "airport": "DEL",
+    "timestamp": "2026-01-19T04:44:54.873154",
+    "weather_data": {
+      "temperature_c": 25.00422770568004,
+      "wind_speed_knots": 48.736979911155665,
+      "wind_direction": 130,
+      "visibility_meters": 8468.167618813328,
+      "humidity_percent": 79.47047646138677,
+      "pressure_hpa": 1004.7112413762926,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 14.512774983818657
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-18T22:44:54.873161",
+    "weather_data": {
+      "temperature_c": 23.969227835663716,
+      "wind_speed_knots": 54.81655062392467,
+      "wind_direction": 233,
+      "visibility_meters": 7320.44303650247,
+      "humidity_percent": 58.890710223373986,
+      "pressure_hpa": 989.9607307529484,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 28.668738828591398
+  },
+  {
+    "airport": "MAA",
+    "timestamp": "2026-01-19T09:44:54.873169",
+    "weather_data": {
+      "temperature_c": 21.121881993329872,
+      "wind_speed_knots": 36.21983643156031,
+      "wind_direction": 46,
+      "visibility_meters": 1801.7813531281934,
+      "humidity_percent": 48.28806420399357,
+      "pressure_hpa": 987.0923352945789,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 10.070179027430555
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T21:44:54.873177",
+    "weather_data": {
+      "temperature_c": 20.626757408840188,
+      "wind_speed_knots": 15.725505167345894,
+      "wind_direction": 309,
+      "visibility_meters": 5166.486737720238,
+      "humidity_percent": 92.43189295110308,
+      "pressure_hpa": 984.9161851121121,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 30.04594172683437
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-18T23:44:54.873185",
+    "weather_data": {
+      "temperature_c": 24.16667421011571,
+      "wind_speed_knots": 10.980531201845206,
+      "wind_direction": 80,
+      "visibility_meters": 3377.4347991294726,
+      "humidity_percent": 92.73549187716081,
+      "pressure_hpa": 1010.0664885128897,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 16.88602206640197
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T02:44:54.873193",
+    "weather_data": {
+      "temperature_c": 29.943828080450263,
+      "wind_speed_knots": 33.08676282317491,
+      "wind_direction": 131,
+      "visibility_meters": 3718.6181469207877,
+      "humidity_percent": 43.29931937584365,
+      "pressure_hpa": 995.4313583415138,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 20.03297261725463
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T17:44:54.873200",
+    "weather_data": {
+      "temperature_c": 28.340013189899597,
+      "wind_speed_knots": 48.55590772345913,
+      "wind_direction": 65,
+      "visibility_meters": 3619.9382575397203,
+      "humidity_percent": 49.49065202381679,
+      "pressure_hpa": 992.7354044978725,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 53.957394858290414
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-19T02:44:54.873208",
+    "weather_data": {
+      "temperature_c": 10.539295488226735,
+      "wind_speed_knots": 24.234383701030787,
+      "wind_direction": 160,
+      "visibility_meters": 6523.383752315086,
+      "humidity_percent": 79.46991218906922,
+      "pressure_hpa": 981.0894593514231,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 52.681904352642626
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-18T22:44:54.873215",
+    "weather_data": {
+      "temperature_c": 23.661620196962033,
+      "wind_speed_knots": 23.100933440898064,
+      "wind_direction": 246,
+      "visibility_meters": 6657.807818596768,
+      "humidity_percent": 76.4869225411824,
+      "pressure_hpa": 1022.5280349256421,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 41.201654172333214
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T17:44:54.873223",
+    "weather_data": {
+      "temperature_c": 16.20009173485817,
+      "wind_speed_knots": 40.56294597296187,
+      "wind_direction": 156,
+      "visibility_meters": 3798.406495017043,
+      "humidity_percent": 85.06764343526325,
+      "pressure_hpa": 1021.5898553937376,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 31.81610196163078
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T09:44:54.873230",
+    "weather_data": {
+      "temperature_c": 27.69679554962504,
+      "wind_speed_knots": 30.962520137669067,
+      "wind_direction": 257,
+      "visibility_meters": 2954.384797075075,
+      "humidity_percent": 78.63065760773104,
+      "pressure_hpa": 1014.1068660126807,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 14.18484003368742
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T04:44:54.873238",
+    "weather_data": {
+      "temperature_c": 10.041925714235083,
+      "wind_speed_knots": 28.353170277145257,
+      "wind_direction": 223,
+      "visibility_meters": 4066.5390256358965,
+      "humidity_percent": 68.32499002620557,
+      "pressure_hpa": 1027.3350205604706,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 47.80317675340585
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T06:44:54.873254",
+    "weather_data": {
+      "temperature_c": 15.029814690670683,
+      "wind_speed_knots": 9.605476328498831,
+      "wind_direction": 316,
+      "visibility_meters": 9000.447114892508,
+      "humidity_percent": 45.373271729853364,
+      "pressure_hpa": 983.2379430806988,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 50.01314373958117
+  },
+  {
+    "airport": "DEL",
+    "timestamp": "2026-01-19T06:44:54.873263",
+    "weather_data": {
+      "temperature_c": 28.483362909710692,
+      "wind_speed_knots": 22.17407659572051,
+      "wind_direction": 70,
+      "visibility_meters": 4835.571551706912,
+      "humidity_percent": 43.88569105582013,
+      "pressure_hpa": 991.4111389474559,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 10.628249506084021
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-18T23:44:54.873271",
+    "weather_data": {
+      "temperature_c": 12.897800225455768,
+      "wind_speed_knots": 47.22909976484694,
+      "wind_direction": 335,
+      "visibility_meters": 1751.0362128943714,
+      "humidity_percent": 48.719545845812846,
+      "pressure_hpa": 1009.6045843865243,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 17.119889781054074
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T05:44:54.873280",
+    "weather_data": {
+      "temperature_c": 21.38688654669913,
+      "wind_speed_knots": 8.64128759577596,
+      "wind_direction": 264,
+      "visibility_meters": 7027.1664312282255,
+      "humidity_percent": 52.27312768052734,
+      "pressure_hpa": 1013.4734706950705,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 13.637848609004497
+  },
+  {
+    "airport": "BOM",
+    "timestamp": "2026-01-19T12:44:54.873289",
+    "weather_data": {
+      "temperature_c": 34.629869961369295,
+      "wind_speed_knots": 37.623725366132035,
+      "wind_direction": 70,
+      "visibility_meters": 1318.1453644501696,
+      "humidity_percent": 72.38779921883764,
+      "pressure_hpa": 995.3271415849216,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 48.896074462647746
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T09:44:54.873298",
+    "weather_data": {
+      "temperature_c": 21.342995284412147,
+      "wind_speed_knots": 43.67586454999736,
+      "wind_direction": 41,
+      "visibility_meters": 3187.893998905596,
+      "humidity_percent": 37.23089268911359,
+      "pressure_hpa": 1010.7681902902909,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 29.566155678810787
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T22:44:54.873307",
+    "weather_data": {
+      "temperature_c": 15.341286743465298,
+      "wind_speed_knots": 32.97942801408076,
+      "wind_direction": 195,
+      "visibility_meters": 4976.237758620733,
+      "humidity_percent": 43.301009268472114,
+      "pressure_hpa": 990.6044681800175,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 53.50689115452073
+  },
+  {
+    "airport": "MAA",
+    "timestamp": "2026-01-19T18:44:54.873316",
+    "weather_data": {
+      "temperature_c": 29.60614161758018,
+      "wind_speed_knots": 11.986920095399062,
+      "wind_direction": 299,
+      "visibility_meters": 9905.073507500052,
+      "humidity_percent": 49.593894877626546,
+      "pressure_hpa": 989.5613670186242,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 30.661312024210304
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T01:44:54.873325",
+    "weather_data": {
+      "temperature_c": 33.863844905229136,
+      "wind_speed_knots": 36.19205189437692,
+      "wind_direction": 133,
+      "visibility_meters": 2199.9182413052004,
+      "humidity_percent": 44.28124993197525,
+      "pressure_hpa": 982.7935126224245,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 52.811432470410935
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T09:44:54.873333",
+    "weather_data": {
+      "temperature_c": 24.64329891663163,
+      "wind_speed_knots": 40.204671722238295,
+      "wind_direction": 148,
+      "visibility_meters": 9718.834169384707,
+      "humidity_percent": 50.54183969846336,
+      "pressure_hpa": 994.3665527597964,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 13.70786109716042
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T10:44:54.873342",
+    "weather_data": {
+      "temperature_c": 22.34317763617765,
+      "wind_speed_knots": 44.31162917047762,
+      "wind_direction": 284,
+      "visibility_meters": 9631.155731733475,
+      "humidity_percent": 55.165366901906594,
+      "pressure_hpa": 1010.6935317352059,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 38.097254520014914
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T03:44:54.873350",
+    "weather_data": {
+      "temperature_c": 10.115503725616762,
+      "wind_speed_knots": 50.31061577148674,
+      "wind_direction": 112,
+      "visibility_meters": 529.4309136184746,
+      "humidity_percent": 41.50427484183269,
+      "pressure_hpa": 1018.2949407057065,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 56.41106828498431
+  },
+  {
+    "airport": "DEL",
+    "timestamp": "2026-01-19T04:44:54.873358",
+    "weather_data": {
+      "temperature_c": 16.478360303343386,
+      "wind_speed_knots": 17.952609468457645,
+      "wind_direction": 315,
+      "visibility_meters": 2205.0873163740634,
+      "humidity_percent": 61.671456075728315,
+      "pressure_hpa": 1025.8817052553877,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 50.39634131622273
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T13:44:54.873365",
+    "weather_data": {
+      "temperature_c": 25.275094953788972,
+      "wind_speed_knots": 30.580426003346396,
+      "wind_direction": 43,
+      "visibility_meters": 5293.85580358924,
+      "humidity_percent": 68.19961344929528,
+      "pressure_hpa": 985.1353678696694,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 44.973942858885856
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-19T12:44:54.873373",
+    "weather_data": {
+      "temperature_c": 32.42794307825934,
+      "wind_speed_knots": 46.840998340098075,
+      "wind_direction": 238,
+      "visibility_meters": 1910.6601081854699,
+      "humidity_percent": 86.75329813887731,
+      "pressure_hpa": 997.1206873539138,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 20.253919394695522
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T22:44:54.873382",
+    "weather_data": {
+      "temperature_c": 25.56496086801371,
+      "wind_speed_knots": 25.648940799165437,
+      "wind_direction": 12,
+      "visibility_meters": 7112.9825922373575,
+      "humidity_percent": 66.09889948352344,
+      "pressure_hpa": 997.9202298283024,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 28.59182893652345
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T21:44:54.873390",
+    "weather_data": {
+      "temperature_c": 19.396155337171614,
+      "wind_speed_knots": 22.16785219522915,
+      "wind_direction": 2,
+      "visibility_meters": 7794.576430689308,
+      "humidity_percent": 60.85168193245799,
+      "pressure_hpa": 994.7003450409221,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 23.80641914704873
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-19T13:44:54.873399",
+    "weather_data": {
+      "temperature_c": 19.448504910204306,
+      "wind_speed_knots": 12.437475706400992,
+      "wind_direction": 151,
+      "visibility_meters": 1816.657045024995,
+      "humidity_percent": 62.49090978997448,
+      "pressure_hpa": 997.6929739176352,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 16.061333251590057
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-19T21:44:54.873407",
+    "weather_data": {
+      "temperature_c": 11.812242391303023,
+      "wind_speed_knots": 9.486272586592378,
+      "wind_direction": 256,
+      "visibility_meters": 9070.200671022018,
+      "humidity_percent": 83.47497193190765,
+      "pressure_hpa": 991.8565272397267,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 40.67092207252648
+  },
+  {
+    "airport": "BOM",
+    "timestamp": "2026-01-19T10:44:54.873415",
+    "weather_data": {
+      "temperature_c": 19.671705256108552,
+      "wind_speed_knots": 28.50233745876676,
+      "wind_direction": 148,
+      "visibility_meters": 8976.642577389532,
+      "humidity_percent": 34.21875982943963,
+      "pressure_hpa": 1006.0566824125344,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 25.360413034354863
+  },
+  {
+    "airport": "JFK",
+    "timestamp": "2026-01-18T22:44:54.873425",
+    "weather_data": {
+      "temperature_c": 22.780469287724394,
+      "wind_speed_knots": 49.58654451072929,
+      "wind_direction": 199,
+      "visibility_meters": 4576.931367827392,
+      "humidity_percent": 51.54061096579808,
+      "pressure_hpa": 1028.4531949049947,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 50.98132697268658
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T12:44:54.873435",
+    "weather_data": {
+      "temperature_c": 27.535380338461724,
+      "wind_speed_knots": 31.22851291637305,
+      "wind_direction": 204,
+      "visibility_meters": 8534.444556916973,
+      "humidity_percent": 90.7777109971482,
+      "pressure_hpa": 991.5068034463565,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 16.312688061375855
+  },
+  {
+    "airport": "DEL",
+    "timestamp": "2026-01-19T08:44:54.873444",
+    "weather_data": {
+      "temperature_c": 28.804488670159973,
+      "wind_speed_knots": 25.422128614898018,
+      "wind_direction": 157,
+      "visibility_meters": 636.8922827778114,
+      "humidity_percent": 40.902183136545645,
+      "pressure_hpa": 1021.2771326150464,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 14.728275790384313
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T05:44:54.873452",
+    "weather_data": {
+      "temperature_c": 23.84962757825616,
+      "wind_speed_knots": 10.077753602827627,
+      "wind_direction": 72,
+      "visibility_meters": 7736.839670643085,
+      "humidity_percent": 46.594396853342886,
+      "pressure_hpa": 994.0483954931931,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 34.81974876212578
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T20:44:54.873460",
+    "weather_data": {
+      "temperature_c": 14.563089508060777,
+      "wind_speed_knots": 42.071333025203245,
+      "wind_direction": 304,
+      "visibility_meters": 4327.7709899025085,
+      "humidity_percent": 35.662722676155866,
+      "pressure_hpa": 1003.0481484047165,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 21.311424234966122
+  },
+  {
+    "airport": "LHR",
+    "timestamp": "2026-01-19T06:44:54.873469",
+    "weather_data": {
+      "temperature_c": 18.3124543722792,
+      "wind_speed_knots": 22.849200012984646,
+      "wind_direction": 100,
+      "visibility_meters": 3474.8741925915933,
+      "humidity_percent": 36.6128494993967,
+      "pressure_hpa": 1021.1539968160216,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 53.11034075863399
+  },
+  {
+    "airport": "BOM",
+    "timestamp": "2026-01-19T20:44:54.873477",
+    "weather_data": {
+      "temperature_c": 29.642344987740763,
+      "wind_speed_knots": 18.179257619031137,
+      "wind_direction": 3,
+      "visibility_meters": 2046.899937684853,
+      "humidity_percent": 41.684498939644286,
+      "pressure_hpa": 1005.1681801567173,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 31.312311666986417
+  },
+  {
+    "airport": "BOM",
+    "timestamp": "2026-01-19T06:44:54.873486",
+    "weather_data": {
+      "temperature_c": 24.27541779989548,
+      "wind_speed_knots": 51.851849297320065,
+      "wind_direction": 14,
+      "visibility_meters": 3281.5114150183313,
+      "humidity_percent": 49.9566213573426,
+      "pressure_hpa": 989.2429001033964,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 26.25224315991758
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T21:44:54.873494",
+    "weather_data": {
+      "temperature_c": 25.62808803041304,
+      "wind_speed_knots": 39.04654538496961,
+      "wind_direction": 74,
+      "visibility_meters": 4773.137653877735,
+      "humidity_percent": 89.24267099838396,
+      "pressure_hpa": 994.208045193728,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 12.754367214954645
+  },
+  {
+    "airport": "MAA",
+    "timestamp": "2026-01-19T21:44:54.873502",
+    "weather_data": {
+      "temperature_c": 16.68881585298279,
+      "wind_speed_knots": 10.002083731376121,
+      "wind_direction": 335,
+      "visibility_meters": 8750.732685107765,
+      "humidity_percent": 66.91549095324214,
+      "pressure_hpa": 982.9781474479869,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 32.71097779114365
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-19T04:44:54.873510",
+    "weather_data": {
+      "temperature_c": 21.92466624005548,
+      "wind_speed_knots": 13.925432535694094,
+      "wind_direction": 16,
+      "visibility_meters": 5472.359067151365,
+      "humidity_percent": 74.96880984740804,
+      "pressure_hpa": 1018.052853663009,
+      "conditions": "Fog"
+    },
+    "crosswind_knots": 11.721146302637294
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T10:44:54.873518",
+    "weather_data": {
+      "temperature_c": 10.122744809657801,
+      "wind_speed_knots": 46.448877457898334,
+      "wind_direction": 204,
+      "visibility_meters": 6586.501472076712,
+      "humidity_percent": 45.16164997587023,
+      "pressure_hpa": 1011.2211805232997,
+      "conditions": "Clear"
+    },
+    "crosswind_knots": 29.184873605865487
+  },
+  {
+    "airport": "BLR",
+    "timestamp": "2026-01-19T22:44:54.873527",
+    "weather_data": {
+      "temperature_c": 23.022966410715625,
+      "wind_speed_knots": 51.05761950040086,
+      "wind_direction": 96,
+      "visibility_meters": 687.5994707548612,
+      "humidity_percent": 60.628504233996104,
+      "pressure_hpa": 1023.2581675384624,
+      "conditions": "Rain"
+    },
+    "crosswind_knots": 16.5816137954436
+  },
+  {
+    "airport": "SYD",
+    "timestamp": "2026-01-19T04:44:54.873536",
+    "weather_data": {
+      "temperature_c": 23.381822826776464,
+      "wind_speed_knots": 47.06103224199047,
+      "wind_direction": 147,
+      "visibility_meters": 7608.531556606303,
+      "humidity_percent": 38.092620467126935,
+      "pressure_hpa": 993.0484751793997,
+      "conditions": "Cloudy"
+    },
+    "crosswind_knots": 53.97762408417798
+  },
+  {
+    "airport": "DXB",
+    "timestamp": "2026-01-19T14:44:54.873545",
+    "weather_data": {
+      "temperature_c": 25.876670575628765,
+      "wind_speed_knots": 26.440821523549825,
+      "wind_direction": 27,
+      "visibility_meters": 1245.3467619685212,
+      "humidity_percent": 74.59717994884151,
+      "pressure_hpa": 990.6177982476164,
+      "conditions": "Thunderstorm"
+    },
+    "crosswind_knots": 47.31636733539087
+  }
+]
