@@ -10,9 +10,9 @@ Project Structure
 airline-operations-system/
 ├── data/
 |   ├── sample_crew_schedule.json  
-|  ├── sample_engine_logs.json     
+|   ├── sample_engine_logs.json     
 |   ├── sample_flight_schedule.json 
-|  ├── sample_passenger_logs.json  
+|   ├── sample_passenger_logs.json  
 |   └── sample_weather_logs.json    
 ├── logs/ 
 │   ├── aircraft_health_alerts.log  
@@ -46,8 +46,40 @@ Features
 Install Dependencies
 ---------------------------------------------------------------------------------------------------------------------
   tabulate
+  
   reportlab==4.0.4
+  
   faker==20.1.0
+  
   pytz==2023.3
+
+Data Files Description
+-----------------------------------------------------------------------------------------------------------------------
+1. sample_crew_schedule.json
+Contains crew member details, qualifications, schedules, and duty times.
+
+2. sample_engine_logs.json
+Aircraft engine performance metrics, maintenance records, and sensor data.
+
+3. sample_flight_schedule.json
+Flight schedules, routes, aircraft assignments, and historical performance.
+
+4. sample_passenger_logs.json
+Passenger booking data, preferences, and historical travel patterns.
+
+5. sample_weather_logs.json
+Historical and forecasted weather data for flight routes and airports.
+
+Sample Output
+------------------------------------------------------------------------------------------------------
+ Weather Reports: 50
+ 
+  Crew Members: 20
+  
+  Passenger Records: 70
+  
+ Report saved: output/reports/aviation_report_2026-01-20.txt
+
+ Daily report generated: output/reports/aviation_report_2026-01-20.txt
   
   
